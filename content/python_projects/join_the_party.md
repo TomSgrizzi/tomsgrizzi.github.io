@@ -98,11 +98,11 @@ I plan to keep working on the code as I dive deeper in my learning journey. More
 
 ## Screenshots
 
-![Alt text](/jointheparty_intro.png/ "")
-![Alt text](/jointheparty_rules.png/ "")
-![Alt text](/jointheparty_game.png/ "")
-![Alt text](/jointheparty_yay.png/ "")
-![Alt text](/jointheparty_nah.png/ "")
+![Alt text](jointheparty_intro.png/ "")
+![Alt text](jointheparty_rules.png/ "")
+![Alt text](jointheparty_game.png/ "")
+![Alt text](jointheparty_yay.png/ "")
+![Alt text](jointheparty_nah.png/ "")
 
 ## Python code
 
