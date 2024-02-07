@@ -98,7 +98,7 @@ I plan to keep working on the code as I dive deeper in my learning journey. More
 
 ## Screenshots
 
-![Alt text](/static/jointheparty_intro.png)
+![Alt text](/jointheparty-intro.png/)
 ![Alt text](/jointheparty_rules.png/)
 ![Alt text](/jointheparty_game.png/)
 ![Alt text](/jointheparty_yay.png/)
