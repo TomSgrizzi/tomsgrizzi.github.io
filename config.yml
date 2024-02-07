@@ -57,7 +57,7 @@ params:
           enabled: true
           title: Tommaso Sgrizzi
           subtitle: "I am a PhD student in linguistics at IUSS Pavia, where I research computational models for the acquisition of infinitival structures. My work looks into the role that functional verbs (specifically restructuring verbs, adopting Cinque 2006) play in language development, assuming the Growing Trees Hypothesis framework (Friedmann et al. 2021). In my free time you can find me drawing, taking photos of my friends or playing music, and I recently got very interested in learning Python (you can find some projects I played with in the relevant page of this site)."
-          imageUrl: "static/tom.jpg"
+          imageUrl: "tom.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Tommaso Sgrizzi
