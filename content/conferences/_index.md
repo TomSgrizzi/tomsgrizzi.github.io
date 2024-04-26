@@ -4,7 +4,7 @@ description: "Talks and posters."
 ---
 
 
-## Peer-reviewed presentations 
+## Peer-reviewed presentations invited 
 
 Sgrizzi, T. (2024), *Functional Restructuring and the Growing Trees Hypothesis: Insights from Italian Corpus data*, talk at MFiL, University of Manchester, April 25th - 26th
 
