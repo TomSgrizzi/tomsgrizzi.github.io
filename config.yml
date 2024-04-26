@@ -56,7 +56,11 @@ params:
     profileMode:
           enabled: true
           title: Tommaso Sgrizzi
-          subtitle: "Hi! I'm a PhD student in Linguistics at the IUSS Pavia, specializing in the fascinating realm of syntax and language acquisition. My research focuses on exploring the syntax and acquisition of specific infinitive-taking verbs (called 'restructuring verbs') in Italian and other Romance languages. I look at this issue through the lenses of the Growing Trees Hypothesis (Friedmann et al., 2021) and Cinque's (2006) functional account on restructuring. Additionally, I am intrigued by the intersection of computational linguistics and psycholinguistic research. At the moment I am testing language models against the predictions of Relativized Minimality (RM), exploring how these models deal with complex and reduced structures. In my free time you can find me drawing, taking photos of my friends, or playing music. Moreover, my recent dive into Python has opened up a new avenue for integrating programming with my research interests. Feel free to explore some of my (very) initial projects on this site's dedicated page :)"
+          subtitle: "Hi! I'm a PhD student in Linguistics at the IUSS Pavia, studying the syntax and acquisition of specific infinitive-taking verbs (called 'restructuring verbs') in Italian and other Romance languages.
+
+                    Additionally, I am intrigued by the intersection of computational linguistics and psycholinguistic research. At the moment I am testing language models against the predictions of Relativized Minimality, exploring how these models deal with complex and reduced structures.
+
+                    In my free time you can find me drawing, taking photos of my friends, or playing music. Moreover, my recent dive into Python has opened up a new avenue for integrating programming with my research interests. Feel free to explore some of my (very) initial projects on this site's dedicated page ✨"
           imageUrl: "tom.jpg"
           imageWidth: 160
           imageHeight: 160
