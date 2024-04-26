@@ -1,6 +1,6 @@
 ---
 title: "Conferences"
-description: "Talks and posters."
+description: "Peer-reviewed presentations"
 ---
 
 
