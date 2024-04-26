@@ -56,10 +56,8 @@ params:
     profileMode:
           enabled: true
           title: Tommaso Sgrizzi
-          subtitle: "Hi! I'm a PhD student in Linguistics at the IUSS Pavia, studying the syntax and acquisition of specific infinitive-taking verbs (called 'restructuring verbs') in Italian and other Romance languages.
-
-                    Additionally, I am intrigued by the intersection of computational linguistics and psycholinguistic research. At the moment I am testing language models against the predictions of Relativized Minimality, exploring how these models deal with complex and reduced structures.
-
+          subtitle: "Hi! I'm a PhD student in Linguistics at the IUSS Pavia, studying the syntax and acquisition of specific infinitive-taking verbs (called 'restructuring verbs') in Italian and other Romance languages.\
+                    Additionally, I am intrigued by the intersection of computational linguistics and psycholinguistic research. At the moment I am testing language models against the predictions of Relativized Minimality, exploring how these models deal with complex and reduced structures.\
                     In my free time you can find me drawing, taking photos of my friends, or playing music. Moreover, my recent dive into Python has opened up a new avenue for integrating programming with my research interests. Feel free to explore some of my (very) initial projects on this site's dedicated page ✨"
           imageUrl: "tom.jpg"
           imageWidth: 160
