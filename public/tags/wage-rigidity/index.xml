@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>wage rigidity on Tommaso Sgrizzi</title>
-    <link>https://tomsgrizzi.onrender.com/tags/wage-rigidity/</link>
+    <link>/tags/wage-rigidity/</link>
     <description>Recent content in wage rigidity on Tommaso Sgrizzi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tomsgrizzi.onrender.com/tags/wage-rigidity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wage-rigidity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modeling the Displacement of Native Workers by Immigrants</title>
-      <link>https://tomsgrizzi.onrender.com/14/</link>
+      <link>/14/</link>
       <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tomsgrizzi.onrender.com/14/</guid>
+      <guid>/14/</guid>
       <description>This paper explains why a wave of immigration reduces the employment rate of native workers, and why this reduction is larger in bad times.</description>
     </item>
     
     <item>
       <title>Unemployment</title>
-      <link>https://tomsgrizzi.onrender.com/c1/</link>
+      <link>/c1/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://tomsgrizzi.onrender.com/c1/</guid>
+      <guid>/c1/</guid>
       <description>This graduate course presents matching models of unemployment and uses them to study unemployment fluctuations, job rationing, and labor market policies.</description>
     </item>
     
     <item>
       <title>Intermediate Macroeconomics</title>
-      <link>https://tomsgrizzi.onrender.com/c4/</link>
+      <link>/c4/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://tomsgrizzi.onrender.com/c4/</guid>
+      <guid>/c4/</guid>
       <description>This undergraduate course covers IS-LM model of business cycles, matching model of unemployment, inflation, and Malthusian and Solowian models of growth.</description>
     </item>
     
     <item>
       <title>A Macroeconomic Approach to Optimal Unemployment Insurance: Applications</title>
-      <link>https://tomsgrizzi.onrender.com/5/</link>
+      <link>/5/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://tomsgrizzi.onrender.com/5/</guid>
+      <guid>/5/</guid>
       <description>This paper studies how the generosity of unemployment insurance should vary over the business cycle in the United States. Published in AEJ Policy, 2018.</description>
     </item>
     
     <item>
       <title>A Macroeconomic Approach to Optimal Unemployment Insurance: Theory</title>
-      <link>https://tomsgrizzi.onrender.com/4/</link>
+      <link>/4/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://tomsgrizzi.onrender.com/4/</guid>
+      <guid>/4/</guid>
       <description>This paper develops a theory of optimal unemployment insurance in matching models. Published in AEJ Policy, 2018.</description>
     </item>
     
     <item>
       <title>Aggregate Demand, Idle Time, and Unemployment</title>
-      <link>https://tomsgrizzi.onrender.com/3/</link>
+      <link>/3/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://tomsgrizzi.onrender.com/3/</guid>
+      <guid>/3/</guid>
       <description>This paper develops a model of unemployment fluctuations in which the labor and product markets have a matching structure. Published in QJE, 2015.</description>
     </item>
     
     <item>
       <title>A Theory of Countercyclical Government Multiplier</title>
-      <link>https://tomsgrizzi.onrender.com/2/</link>
+      <link>/2/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://tomsgrizzi.onrender.com/2/</guid>
+      <guid>/2/</guid>
       <description>This paper develops a New Keynesian model in which the government multiplier doubles when unemployment rises from 5% to 8%. Published in AEJ Macro, 2014.</description>
     </item>
     
     <item>
       <title>Do Matching Frictions Explain Unemployment? Not in Bad Times</title>
-      <link>https://tomsgrizzi.onrender.com/1/</link>
+      <link>/1/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://tomsgrizzi.onrender.com/1/</guid>
+      <guid>/1/</guid>
       <description>This paper proposes a matching model of the labor market with job rationing: unemployment persists even without matching frictions. Published in AER, 2012.</description>
     </item>
     

@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 https://tomsgrizzi.onrender.com/ Michaillat  
+Copyright (c) 2023 / Michaillat  
 Copyright (c) 2020-2022 adityatelange  
 Copyright (c) 2018 nanxiaobei  
 
