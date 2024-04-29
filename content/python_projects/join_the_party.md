@@ -63,11 +63,10 @@ I plan to keep working on the code as I dive deeper in my learning journey. More
 ## Screenshots
 
 ![Intro page](https://raw.githubusercontent.com/TomSgrizzi/tomsgrizzi.github.io/main/content/python_projects/jointheparty-intro.png)
-![Rules](jointheparty_rules.png)
-![Game section](jointheparty_game.png)
-![Success page](jointheparty_yay.png)
-![Failure page](jointheparty_nah.png)
-
+![Rules](https://raw.githubusercontent.com/TomSgrizzi/tomsgrizzi.github.io/main/content/python_projects/jointheparty_rules.png)
+![Game section](https://raw.githubusercontent.com/TomSgrizzi/tomsgrizzi.github.io/main/content/python_projects/jointheparty_game.png)
+![Success page](https://raw.githubusercontent.com/TomSgrizzi/tomsgrizzi.github.io/main/content/python_projects/jointheparty_yay.png)
+![Failure page](https://raw.githubusercontent.com/TomSgrizzi/tomsgrizzi.github.io/main/content/python_projects/jointheparty_nah.png)
 ## Python code
 
 ```
