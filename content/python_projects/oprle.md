@@ -3,51 +3,15 @@ title: "Oprle v1.0"
 date: 2023-10-11
 url: /oprle/
 aliases:
-    - /t1.html
-    - /v11.html
-    - /v9.html
-    - /v8.html
-    - /v10.html
-    - /v5.html
-    - /v6.html
-    - /v3.html
-    - /v4.html
-    - /v37.html
-    - /v114.html
-    - /v102.html
-    - /v7.html
-    - /v54.html
-    - /v55.html
-    - /v58.html
-    - /v62.html
-    - /v116.html
-    - /v123.html
-    - /v124.html
-    - /v125.html
-    - /v132.html
-    - /v137.html
-    - /v119.html
-    - /v108.html
-    - /v104.html
-    - /v101.html
-    - /v48.html
-    - /v49.html
-    - /v79.html
-    - /v86.html
-    - /v41.html
-    - /v22.html
-    - /v18.html
-    - /uploads/7/0/2/0/70200055/t1a.pdf
-    - /uploads/7/0/2/0/70200055/t1b.pdf
 tags: ["python3","oprle","game","programming"]
 author: "Last update"
 description: "This game - a mathematical expression generation and solving challenge - is modelled on the logic of Wordle. The objective is to work through a sequence of five numbers and perform operations (+, -, *) to obtain the final result. Every third number is the result of an operation between the first and second numbers before that. The user has nine tries available, and for each attempt the game will provide a feedback. A number is reprinted in: green if the user guesses it in the right position; yellow if the position is wrong; black if it's not present within the hidden expression. I hope it can be a fun and engaging way to test mathematical skills and simple logical thinking.
 " 
 summary: "A mathematical expression generation and solving challenge designed to be a fun and engaging way to test simple mathematical skills and simple logical thinking." 
 cover:
-    image: "/c1.png"
-    alt: "Rationing and frictional unemployment in the United States, 1964–2009"
-    relative: false
+    image: ""
+    alt: ""
+    relative: true
 showToc: true
 disableAnchoredHeadings: false
 
@@ -74,9 +38,9 @@ I plan to keep working on the code as I dive deeper in my learning journey. More
 
 ## Screenshots
 
-![Alt text](/oprle1.png/ "")
-![Alt text](/oprle2.png/ "")
-![Alt text](/oprle3.png/ "")
+![Alt text](https://raw.githubusercontent.com/TomSgrizzi/tomsgrizzi.github.io/main/content/python_projects/oprle1.png)
+![Alt text](https://raw.githubusercontent.com/TomSgrizzi/tomsgrizzi.github.io/main/content/python_projects/oprle2.png)
+![Alt text](https://raw.githubusercontent.com/TomSgrizzi/tomsgrizzi.github.io/main/content/python_projects/oprle3.png)
 
 ## Python code
 
