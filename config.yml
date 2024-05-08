@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Tommaso Sgrizzi
-          subtitle: "Hi! I'm a PhD student in Linguistics at IUSS Pavia and a member of the [SOLE](https://www.universiteitleiden.nl/en/events/series/sole) board, working on the syntax and acquisition of specific infinitive-taking verbs (known as 'restructuring verbs') in Italian and other Romance languages. In my free time, you can find me drawing, taking photos of my friends, or playing music. Additionally, my recent dive into Python has allowed me to integrate programming with my research interests. Feel free to explore some of my initial projects on this site's dedicated page ✨"
+          subtitle: "Hi! I'm a PhD student in Linguistics at IUSS Pavia and a member of the <a href="https://www.universiteitleiden.nl/en/events/series/sole" class="blue-link">SOLE</a> board, working on the syntax and acquisition of specific infinitive-taking verbs (known as 'restructuring verbs') in Italian and other Romance languages. In my free time, you can find me drawing, taking photos of my friends, or playing music. Additionally, my recent dive into Python has allowed me to integrate programming with my research interests. Feel free to explore some of my initial projects on this site's dedicated page ✨"
           imageUrl: "tom.jpg"
           imageWidth: 160
           imageHeight: 160
