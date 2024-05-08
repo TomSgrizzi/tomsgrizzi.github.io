@@ -6,17 +6,12 @@
     padding: var(--gap);
 }
 
-/* General link styling */
-a {
+/* Specific link styling */
+.blue-link {
     color: blue;
-    text-decoration: none; /* Optional: removes underline */
+    text-decoration: none;  /* Optionally removes underline */
 }
 
-/* If you want to specifically target links within markdown content */
-.markdown-body a {
-    color: blue;
-    text-decoration: none;
-}
 
 
 .page-header h1 {
