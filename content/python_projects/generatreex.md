@@ -72,12 +72,15 @@ Future improvements will probably affect the following aspects:
 
 ---
 
-## Screenshots
-
-![Alt text](/oprle1.png/ "")
-![Alt text](/oprle2.png/ "")
-![Alt text](/oprle3.png/ "")
-
 ## Python code
 
 The full code is available on [GitHub](https://github.com/TomSgrizzi/generatreex).
+
+## Screenshots
+
+![Alt text](https://github.com/TomSgrizzi/tomsgrizzi.github.io/blob/main/content/python_projects/generatreex_1.png?raw=true)
+![Alt text](https://github.com/TomSgrizzi/tomsgrizzi.github.io/blob/main/content/python_projects/generatreex_2.png?raw=true)
+![Alt text](https://github.com/TomSgrizzi/tomsgrizzi.github.io/blob/main/content/python_projects/generatreex_3.png?raw=true)
+|[Alt_text](https://github.com/TomSgrizzi/tomsgrizzi.github.io/blob/main/content/python_projects/generatreex_4.png?raw=true)
+
+
