@@ -55,7 +55,7 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-[GeneraTreeX[https://generatreex-f84b761a7ce0.herokuapp.com/] is a user-friendly web application designed to simplify the creation of syntactic tree diagrams for linguistic analysis. With an intuitive interface, GeneraTreeX allows linguists, educators, and students to input specific in-line notation syntax and instantly generate the relevant syntactic tree diagrams. By adhering to a structured input format enclosed within square brackets, users define the structure of their trees. GeneraTreeX offers validation checks to ensure proper bracket balance and provides optional features like movement lines to enhance diagram clarity. Error handling mechanisms guide users through input corrections, while server-side error messages explain issues encountered during PDF generation. GeneraTreeX is a `flask` app deployed on Heroku. The core packages of GeneraTreeX are `forest` and `pdflatex` from TeXLive.
+[GeneraTreeX](https://generatreex-f84b761a7ce0.herokuapp.com/) is a user-friendly web application designed to simplify the creation of syntactic tree diagrams for linguistic analysis. With an intuitive interface, GeneraTreeX allows linguists, educators, and students to input specific in-line notation syntax and instantly generate the relevant syntactic tree diagrams. By adhering to a structured input format enclosed within square brackets, users define the structure of their trees. GeneraTreeX offers validation checks to ensure proper bracket balance and provides optional features like movement lines to enhance diagram clarity. Error handling mechanisms guide users through input corrections, while server-side error messages explain issues encountered during PDF generation. GeneraTreeX is a `flask` app deployed on Heroku. The core packages of GeneraTreeX are `forest` and `pdflatex` from TeXLive.
 
 ##### Packages deployed
 
@@ -81,6 +81,6 @@ The full code is available on [GitHub](https://github.com/TomSgrizzi/generatreex
 ![Alt text](https://github.com/TomSgrizzi/tomsgrizzi.github.io/blob/main/content/python_projects/generatreex_1.png?raw=true)
 ![Alt text](https://github.com/TomSgrizzi/tomsgrizzi.github.io/blob/main/content/python_projects/generatreex_2.png?raw=true)
 ![Alt text](https://github.com/TomSgrizzi/tomsgrizzi.github.io/blob/main/content/python_projects/generatreex_3.png?raw=true)
-|[Alt_text](https://github.com/TomSgrizzi/tomsgrizzi.github.io/blob/main/content/python_projects/generatreex_4.png?raw=true)
+![Alt_text](https://github.com/TomSgrizzi/tomsgrizzi.github.io/blob/main/content/python_projects/generatreex_4.png?raw=true)
 
 
