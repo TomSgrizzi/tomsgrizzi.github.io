@@ -66,7 +66,8 @@ disableAnchoredHeadings: false
 
 Future improvements will probably affect the following aspects:
 
-+ A better customization of movement lines (based on the size of the structure as well).
++ Improving the weight of the amplitude parameter of movement lines based on the structure intervening between probes and goals.
++ Allowing the user to select the directions from which the lines departure from the source and arrive to the goal.
 + Bug fixes and better visualization of error feedbacks.
 + General refactoring of the code.
 
