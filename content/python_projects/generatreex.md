@@ -1,5 +1,5 @@
 ---
-title: "GeneraTreeX v1.0" 
+title: "GeneraTreeX v2.0" 
 date: 2024-05-13
 url: /generatreex/
 aliases:
@@ -52,8 +52,26 @@ showToc: true
 disableAnchoredHeadings: false
 
 ---
+# Introduction
 
-## Introduction
+GeneraTreeX is a web application designed for linguists, educators, and students to effortlessly generate syntactic tree diagrams from in-line notation. The tool simplifies the visualization of sentence structures, offering features such as customizable movement lines, multiple download formats (PDF, LaTeX code, and transparent PNG), and a user-friendly interface compatible with desktop and mobile layouts. With GeneraTreeX, users can quickly and accurately depict complex syntactic structures, without the need of delving into LaTeX programming.
+
+### GitHub repository and previous versions
++ [GeneraTreeX 2.0 GitHub repository](https://github.com/TomSgrizzi/generatreex-2.0/tree/master)
++ You can access GeneraTreeX 1.0 [here](https://generatreex-f84b761a7ce0.herokuapp.com/), refer to its [GitHub repository](https://github.com/TomSgrizzi/generatreex) for more information.
+
+## New features and improvements
++ Possibility to optionally specify the in and out directions of movement lines.
++ New download options: LaTeX code and transparent png file alongside the PDF file.
++ Availability of mobile interface.
++ Layout simplification (from 4 pages down to 2).
+
+## Screenshots
+
+![Alt text](https://github.com/TomSgrizzi/tomsgrizzi.github.io/blob/main/content/python_projects/generatreexv2-1.png?raw=true)
+![Alt text](https://github.com/TomSgrizzi/tomsgrizzi.github.io/blob/main/content/python_projects/generatreexv2-2.png?raw=true)
+
+# Previous version
 
 [GeneraTreeX](https://generatreex-f84b761a7ce0.herokuapp.com/) is a user-friendly web application designed to simplify the creation of syntactic tree diagrams for linguistic analysis. With an intuitive interface, GeneraTreeX allows linguists, educators, and students to input specific in-line notation syntax and instantly generate the relevant syntactic tree diagrams. By adhering to a structured input format enclosed within square brackets, users define the structure of their trees. GeneraTreeX offers validation checks to ensure proper bracket balance and provides optional features like movement lines to enhance diagram clarity. Error handling mechanisms guide users through input corrections, while server-side error messages explain issues encountered during PDF generation. GeneraTreeX is a `flask` app deployed on Heroku. The core packages of GeneraTreeX are `forest` and `pdflatex` from TeXLive.
 
