@@ -54,7 +54,7 @@ disableAnchoredHeadings: false
 ---
 ## Introduction
 
-GeneraTreeX is a web application designed for linguists, educators, and students to effortlessly generate syntactic tree diagrams from in-line notation. The tool simplifies the visualization of sentence structures, offering features such as customizable movement lines, multiple download formats (PDF, LaTeX code, and transparent PNG), and a user-friendly interface compatible with desktop and mobile layouts. With GeneraTreeX, users can quickly and accurately depict complex syntactic structures, without the need of delving into LaTeX programming.
+[GeneraTreeX](https://generatreex-2-edec2e0eb6b5.herokuapp.com/) is a web application designed for linguists, educators, and students to effortlessly generate syntactic tree diagrams from in-line notation. The tool simplifies the visualization of sentence structures, offering features such as customizable movement lines, multiple download formats (PDF, LaTeX code, and transparent PNG), and a user-friendly interface compatible with desktop and mobile layouts. With GeneraTreeX, users can quickly and accurately depict complex syntactic structures, without the need of delving into LaTeX programming.
 
 ### GitHub repository and previous versions
 + [GeneraTreeX 2.0 GitHub repository](https://github.com/TomSgrizzi/generatreex-2.0/tree/master)
