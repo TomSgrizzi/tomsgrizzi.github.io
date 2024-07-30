@@ -108,18 +108,15 @@ To run this application locally, follow these steps:
 
     The application will be available at `http://127.0.0.1:5000/`.
 
-## Usage
-
+**Usage**
     Simply paste your LingBuzz link in the input field and select your preferred citation style.
     
 - **Generate BibTeX Citation:**
-- 
+-
     Example response:
 
     ```json
-    {
-        "bibtex": "@article{author_year,\n    title={Paper Title},\n    doi={some-doi},\n    year={2024},\n    author={Author, A.},\n    link={https://lingbuzz.net/some-paper},\n    note = {Published in: Some Journal},\n    journal=LingBuzz\n}"
-    }
+    "@article{author_year,\n    title={Paper Title},\n    doi={some-doi},\n    year={2024},\n    author={Author, A.},\n    link={https://lingbuzz.net/some-paper},\n    note = {Published in: Some Journal},\n    journal=LingBuzz\n}"
     ```
 
 - **Generate APA Citation:**
@@ -127,9 +124,7 @@ To run this application locally, follow these steps:
     Example response:
 
     ```json
-    {
-        "apa": "Author, A. (2024). Paper Title. Some Journal. Retrieved from https://lingbuzz.net/some-paper"
-    }
+    "Author, A. (2024). Paper Title. Some Journal. Retrieved from https://lingbuzz.net/some-paper"
     ```
 
 ## Error Handling
@@ -139,33 +134,25 @@ The application handles the following errors:
 - **Invalid URL:** If the provided URL does not start with `https://lingbuzz.net/`, an error message is returned:
 
     ```json
-    {
-        "error": "Not a LingBuzz link"
-    }
+     "Not a LingBuzz link"
     ```
 
 - **Failed Retrieval:** If the request to the LingBuzz URL fails (e.g., non-200 HTTP status code), an error message is returned:
 
     ```json
-    {
         "error": "Failed to retrieve the webpage. Status code: [status_code]"
-    }
     ```
 
 - **Missing Content:** If required content cannot be found on the page, an error message is returned:
 
     ```json
-    {
         "error": "The required content could not be found on the page."
-    }
     ```
 
 - **Missing URL Parameter:** If the `url` parameter is not provided in the request, a 400 Bad Request error is returned:
 
     ```json
-    {
         "error": "URL is required"
-    }
     ```
 
 ## Development
