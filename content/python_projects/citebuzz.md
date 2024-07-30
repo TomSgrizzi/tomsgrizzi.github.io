@@ -108,8 +108,10 @@ To run this application locally, follow these steps:
 
     The application will be available at `http://127.0.0.1:5000/`.
 
-**Usage**
-    Simply paste your LingBuzz link in the input field and select your preferred citation style.
+
+## Usage
+
+Simply paste your LingBuzz link in the input field and select your preferred citation style.
     
 - **Generate BibTeX Citation:**
 -
@@ -140,19 +142,19 @@ The application handles the following errors:
 - **Failed Retrieval:** If the request to the LingBuzz URL fails (e.g., non-200 HTTP status code), an error message is returned:
 
     ```json
-        "error": "Failed to retrieve the webpage. Status code: [status_code]"
+       "Failed to retrieve the webpage. Status code: [status_code]"
     ```
 
 - **Missing Content:** If required content cannot be found on the page, an error message is returned:
 
     ```json
-        "error": "The required content could not be found on the page."
+        "The required content could not be found on the page."
     ```
 
 - **Missing URL Parameter:** If the `url` parameter is not provided in the request, a 400 Bad Request error is returned:
 
     ```json
-        "error": "URL is required"
+       "URL is required"
     ```
 
 ## Development
