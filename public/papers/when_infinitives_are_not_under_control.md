@@ -1,0 +1,66 @@
+# When Infinitives Are Not Under Control: The Growing Trees Hypothesis and the Developmental Advantage of Restructuring Verbs
+
+**Author**: Tommaso Sgrizzi
+
+## Introduction
+
+Restructuring verbs are infinitive-taking predicates that behave atypically, resembling simple clauses even when selecting infinitival complements. This study investigates how these verbs function within the syntax of language acquisition, with the aim of contributing new insights into infinitival structures and their developmental trajectory.
+
+The core debate around restructuring verbs has been framed by two primary syntactic perspectives:
+1. **Monoclausal Approaches**: These assume that restructuring verbs and their infinitives form a single domain throughout the derivation process.
+2. **Biclausal Approaches**: These propose that the monoclausal effects of restructuring arise as a by-product of syntactic derivation, involving separate clauses initially.
+
+This paper evaluates these perspectives in the context of child language acquisition, leveraging the **Growing Trees Hypothesis (GTH)**, which suggests that syntactic development occurs in a bottom-up, stage-based manner. The study examines the acquisition of restructuring verbs, positing that they emerge earlier than control verbs if treated as functional elements in the syntax.
+
+## Research Aims
+
+1. **Primary Aim**: To explore how restructuring verbs behave in the context of early language development.
+2. **Secondary Aim**: To provide empirical data that informs and refines the theoretical debate on restructuring within syntactic theory.
+
+## Methods
+
+The study utilized **corpus data from the CHILDES database**, focusing on spontaneous production of children aged between 1;05 and 3;04. The key steps included:
+
+1. **Data Extraction**: Restructuring and control verbs were manually extracted from child utterances and analyzed based on their occurrence in infinitival contexts.
+2. **Categorization**: The matrix predicates introducing the infinitival structures were classified as either restructuring or control verbs.
+3. **Developmental Analysis**: Utterances were further classified to observe the emergence of restructuring verbs relative to other syntactic phenomena, such as control structures and finite complement clauses.
+
+### Corpus Summary
+- **No. of Children**: 11
+- **Age Range**: 1;05 to 3;04
+- **Data Source**: CHILDES database (MacWhinney, 2000)
+
+## Results
+
+### Key Findings
+1. **Early Emergence of Restructuring Verbs**: The analysis revealed that restructuring verbs, such as modals and aspectuals, consistently emerged earlier than control structures across the sampled data. This supports the hypothesis that restructuring verbs function as **functional elements** within the syntactic tree.
+2. **Monoclausal vs. Biclausal Debate**: The early emergence of restructuring verbs, without the presence of a CP domain, challenges biclausal theories that argue for the embedding of infinitival clauses.
+
+### Developmental Trajectories
+The data showed clear developmental stages in the acquisition of restructuring and control verbs, supporting the predictions of the **Growing Trees Hypothesis**:
+- **Stage 1**: Restructuring verbs (e.g., modals like *volere* and *potere*) emerge early as functional heads, within the TP domain.
+- **Stage 2**: Control verbs and finite complement structures appear later, following the acquisition of higher syntactic layers, such as the CP domain.
+
+## Discussion
+
+### Implications for Theoretical Syntax
+The findings favor **monoclausal approaches** that treat restructuring verbs as functional elements in the syntax. The data is inconsistent with biclausal theories, as restructuring verbs do not behave like complex structures requiring CP layers. Instead, they seem to emerge at an earlier developmental stage, aligning with the **Growing Trees Hypothesis**.
+
+- **Support for the Growing Trees Hypothesis**: The sequential acquisition of syntactic structures follows a cartographically defined order, with restructuring verbs being acquired at **Stage 1**, well before control structures. This developmental pattern provides strong empirical support for bottom-up syntactic growth.
+
+### Future Research
+Further research is needed to explore how these findings generalize across different languages and syntactic environments. Specifically, investigating languages where restructuring verbs do not involve prepositional complementizers could shed additional light on the role of syntax in early language development.
+
+## Conclusion
+
+This study offers novel insights into the acquisition of restructuring verbs, demonstrating that they emerge earlier than control structures in child language acquisition. These findings challenge biclausal approaches and provide empirical support for a **monoclausal, functional restructuring** theory, in line with the predictions of the **Growing Trees Hypothesis**.
+
+## References
+
+1. Cinque, G. (2006). *Restructuring and functional heads*. Oxford University Press.
+2. Rizzi, L. (1976). *Restructuring in syntax*. MIT Press.
+3. Wurmbrand, S. (2001). *Infinitives: Restructuring and clause structure*. Mouton de Gruyter.
+4. Friedmann, N., Belletti, A., & Rizzi, L. (2021). *Growing Trees: The acquisition of the left periphery*. Glossa, 6(1).
+
+---
+*For more information on my research and publications, visit [my academic website](#).*
