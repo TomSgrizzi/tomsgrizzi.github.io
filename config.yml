@@ -66,8 +66,8 @@ params:
               url: /conferences/
             - name: Python projects
               url: /python_projects/
-            #- name: Courses
-            #  url: /courses/
+            - name: Publications
+              url: /publications/
             #- name: Design
             #  url: /design/
             #- name: Newsletter
