@@ -17,8 +17,8 @@ menu:
         - name: Conferences
           url: /conferences/
           weight: 1
-        #- name: Courses
-        #  url: /courses/
+        - name: Publications
+          url: /publications/
         #  weight: 2
         #- name: Design
         #  url: /design/
