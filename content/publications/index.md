@@ -1,5 +1,5 @@
 ---
-title: "My Conferences"
+title: "Publications"
 date: 2023-12-11T08:00:00+00:00
 draft: false
 ---
