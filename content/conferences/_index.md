@@ -6,7 +6,7 @@ description: "Peer-reviewed presentations"
 ## Invited talks
 Sgrizzi, T. (2024), *When infinitives are not under control: the Growing Trees Hypothesis and the developmental advantage of restructuring verbs*, Seminari di Linguistica, University of Padua, 12th December 2024
 
-## Conference Talks and Posters
+## Conference Talks and Poster presentations
 Sgrizzi, T. (2024), *The Acquisition of Infinitival Clauses and The Developmental Advantage of Restructuring Verbs: A Growing Trees Perspective*, Poster at MILLing, University of Gothenburg, October 14th - 15th
 
 Sgrizzi, T. (2024), *Functional Restructuring and the Growing Trees Hypothesis: Insights from Language Acquisition*, Talk at GALA16, NOVA University of Lisbon, September 12th - 14th
