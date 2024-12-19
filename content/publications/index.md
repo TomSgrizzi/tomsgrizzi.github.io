@@ -3,6 +3,7 @@ title: "Publications"
 date: 2024-10-11T08:00:00+00:00
 draft: false
 ---
+Longo, F., Russo Cardona, L., Sgrizzi, T., Shahbazi, A., & Tamleh, H. (Eds.). (2024). [**Proceedings of the 32nd Conference of the Student Organization of Linguistics in Europe**](https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxii.pdf). Leiden University Centre for Linguistics (LUCL).
 
 Chesi, C., Bressan, V., Barbini, M., Fusco, A., Piccini Bianchessi, M., Neri, S., Rossi, S., Sgrizzi, T. (2024). **Different Ways to Forget: Linguistic Gates in Recurrent Neural Networks.** _Proceedings of the BabyLM Challenge at the 28th Conference on Computational Natural Language Learning_
 
