@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@astrojs/react": "^4.2.1",
-    "astro": "^5.4.2"
+    "astro": "^5.4.2",
+    "astro-i18next": "^1.0.0-beta.21",
+    "astro-icon": "^1.1.5"
   }
 }

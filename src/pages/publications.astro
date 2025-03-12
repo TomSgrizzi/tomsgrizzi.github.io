@@ -12,6 +12,7 @@ import { onMount } from "solid-js";
         document.body.classList.toggle("dark-mode", theme === "dark");
       })();
     </script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/styles.css" />
     <meta name="astro-view-transitions-enabled" content="true" />
     <meta name="astro-view-transitions-fallback" content="animate" />
@@ -50,9 +51,9 @@ import { onMount } from "solid-js";
           </div>
 
           <div class="flex flex-row gap-4 mt-6 md:mt-0 md:ml-auto items-center hidden md:flex" id="nav-links">
-            <a href="https://drive.google.com/file/d/1KTrrCpn9wudCucKT9xWBIzMy67_oe2Xo/view?usp=sharing" target="_blank">CV</a>
+            <a href="https://drive.google.com/file/d/1KTrrCpn9wudCucKT9xWBIzMy67_oe2Xo/view?usp=sharing" target="_blank">CV <i class="fas fa-external-link-alt"></i></a>
             <a href="/publications">Publications</a>
-            <a href="https://www.glintlab.org/publications/index.html">Conferences</a>
+            <a href="/conferences">Conferences</a>
             <button id="theme-toggle" aria-label="Toggle theme">🌗</button>
           </div>
           </div>
@@ -68,11 +69,10 @@ import { onMount } from "solid-js";
           <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
             <b>Proceedings of the 32nd Conference of the Student Organization of Linguistics In Europe</b> <br />
             Federica Longo, Leonardo Russo Cardona, <b>Tommaso Sgrizzi</b>, Atefeh Shahbazi, Hadis Tamleh (eds.) 
-            <br /> 2024 <br />
-            <i>Leiden University</i>
-
+            <br /><i>Leiden University</i>
+            <br />2024<br />
             <a href="https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxii.pdf" target="_blank" class="paper-button">book</a>
-            <button id="toggleBibtex_hu_shades_2025" class="bibtex-button">
+            <button id="toggleBibtex_hu_what_2025" class="bibtex-button">
               bibtex
             </button>
           </p>
@@ -96,9 +96,9 @@ import { onMount } from "solid-js";
         <div class="mb-10">
           <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
             <b>Different Ways to Forget: Linguistic Gates in Recurrent Neural Networks</b> <br />
-            Cristiano Chesi, Veronica Bressan, Matilde Barbini, Achille Fusco, Maria Letizia Piccini Bianchessi, Sofia Neri, Sarah Rossi,<b>Tommaso Sgrizzi</b>
-            <br />2024 <br />
-            <i>The 2nd BabyLM Challenge at the 28th Conference on Computational Natural Language Learning</i>
+            Cristiano Chesi, Veronica Bressan, Matilde Barbini, Achille Fusco, Maria Letizia Piccini Bianchessi, Sofia Neri, Sarah Rossi, <b>Tommaso Sgrizzi</b>
+            <br /><i>Proceedings of The 2nd BabyLM Challenge at the 28th Conference on Computational Natural Language Learning</i>
+            <br />2024<br />
             <a href="https://aclanthology.org/2024.conll-babylm.9/" target="_blank" class="paper-button">
               paper
             </a>
@@ -134,9 +134,9 @@ import { onMount } from "solid-js";
         <div class="mb-10">
           <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
             <b>Recurrent networks are (linguistically) better? An experiment on small-LM training on child-directed speech in Italian.</b> <br />
-            Achille Fusco, Matilde Barbini, Maria Letizia Piccini Bianchessi, Veronica Bressan, Sofia Neri, Sarah Rossi,<b>Tommaso Sgrizzi</b>, Cristiano Chesi
-            <br />2024 <br />
-            <i>Proceedings of CLiC-it 2024: Tenth Italian Conference on Computational Linguistics</i>
+            Achille Fusco, Matilde Barbini, Maria Letizia Piccini Bianchessi, Veronica Bressan, Sofia Neri, Sarah Rossi, <b>Tommaso Sgrizzi</b>, Cristiano Chesi
+            <br /><i>Proceedings of CLiC-it 2024: Tenth Italian Conference on Computational Linguistics</i>
+            <br />2024<br />
             <a href="https://ceur-ws.org/Vol-3878/45_main_long.pdf" target="_blank" class="paper-button">
               paper
             </a>
@@ -169,6 +169,11 @@ import { onMount } from "solid-js";
         </div>
       </section>
       <script>
+        document.getElementById('toggleBibtex_hu_what_2025').addEventListener('click', function() {
+        const bibtex = document.getElementById('bibtex_hu_what_2025');
+        bibtex.style.display = bibtex.style.display === 'none' ? 'block' : 'none';
+        });
+
         document.getElementById('toggleBibtex_hu_what_2025').addEventListener('click', function() {
           const bibtex = document.getElementById('bibtex_hu_what_2025');
           bibtex.style.display = bibtex.style.display === 'none' ? 'block' : 'none';

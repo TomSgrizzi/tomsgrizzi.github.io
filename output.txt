@@ -1,0 +1,1520 @@
+Elenco del percorso delle cartelle per il volume Windows-SSD
+Numero di serie del volume: 1833-AF92
+C:.
++---.astro
+¦   +---collections
++---.vscode
++---conferences
++---conferences copy
++---dist
+¦   +---conferences
+¦   +---conferences copy
+¦   +---publications
+¦   +---_astro
++---node_modules
+¦   +---.astro
+¦   +---.bin
+¦   +---.vite
+¦   ¦   +---deps
+¦   +---@ampproject
+¦   ¦   +---remapping
+¦   ¦       +---dist
+¦   ¦           +---types
+¦   +---@antfu
+¦   ¦   +---install-pkg
+¦   ¦   ¦   +---dist
+¦   ¦   +---utils
+¦   ¦       +---dist
+¦   +---@astrojs
+¦   ¦   +---compiler
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---browser
+¦   ¦   ¦       +---node
+¦   ¦   ¦       +---shared
+¦   ¦   +---internal-helpers
+¦   ¦   ¦   +---dist
+¦   ¦   +---markdown-remark
+¦   ¦   ¦   +---dist
+¦   ¦   +---prism
+¦   ¦   ¦   +---dist
+¦   ¦   +---react
+¦   ¦   ¦   +---dist
+¦   ¦   +---telemetry
+¦   ¦       +---dist
+¦   +---@babel
+¦   ¦   +---code-frame
+¦   ¦   ¦   +---lib
+¦   ¦   +---compat-data
+¦   ¦   ¦   +---data
+¦   ¦   +---core
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦   +---config
+¦   ¦   ¦   ¦   ¦   +---files
+¦   ¦   ¦   ¦   ¦   +---helpers
+¦   ¦   ¦   ¦   ¦   +---validation
+¦   ¦   ¦   ¦   +---errors
+¦   ¦   ¦   ¦   +---gensync-utils
+¦   ¦   ¦   ¦   +---parser
+¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   +---tools
+¦   ¦   ¦   ¦   +---transformation
+¦   ¦   ¦   ¦   ¦   +---file
+¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   +---vendor
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦   ¦   +---.bin
+¦   ¦   ¦   ¦   +---semver
+¦   ¦   ¦   ¦       +---bin
+¦   ¦   ¦   +---src
+¦   ¦   ¦       +---config
+¦   ¦   ¦           +---files
+¦   ¦   +---generator
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---generators
+¦   ¦   ¦       +---node
+¦   ¦   +---helper-compilation-targets
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦       +---.bin
+¦   ¦   ¦       +---lru-cache
+¦   ¦   ¦       +---semver
+¦   ¦   ¦           +---bin
+¦   ¦   +---helper-module-imports
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-module-transforms
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-plugin-utils
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-string-parser
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-validator-identifier
+¦   ¦   ¦   +---lib
+¦   ¦   +---helper-validator-option
+¦   ¦   ¦   +---lib
+¦   ¦   +---helpers
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---helpers
+¦   ¦   +---parser
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---typings
+¦   ¦   +---plugin-transform-react-jsx-self
+¦   ¦   ¦   +---lib
+¦   ¦   +---plugin-transform-react-jsx-source
+¦   ¦   ¦   +---lib
+¦   ¦   +---runtime
+¦   ¦   ¦   +---helpers
+¦   ¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---regenerator
+¦   ¦   +---template
+¦   ¦   ¦   +---lib
+¦   ¦   +---traverse
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---path
+¦   ¦   ¦       ¦   +---inference
+¦   ¦   ¦       ¦   +---lib
+¦   ¦   ¦       +---scope
+¦   ¦   ¦           +---lib
+¦   ¦   +---types
+¦   ¦       +---lib
+¦   ¦           +---asserts
+¦   ¦           ¦   +---generated
+¦   ¦           +---ast-types
+¦   ¦           ¦   +---generated
+¦   ¦           +---builders
+¦   ¦           ¦   +---flow
+¦   ¦           ¦   +---generated
+¦   ¦           ¦   +---react
+¦   ¦           ¦   +---typescript
+¦   ¦           +---clone
+¦   ¦           +---comments
+¦   ¦           +---constants
+¦   ¦           ¦   +---generated
+¦   ¦           +---converters
+¦   ¦           +---definitions
+¦   ¦           +---modifications
+¦   ¦           ¦   +---flow
+¦   ¦           ¦   +---typescript
+¦   ¦           +---retrievers
+¦   ¦           +---traverse
+¦   ¦           +---utils
+¦   ¦           ¦   +---react
+¦   ¦           +---validators
+¦   ¦               +---generated
+¦   ¦               +---react
+¦   +---@emnapi
+¦   +---@esbuild
+¦   ¦   +---win32-x64
+¦   +---@iconify
+¦   ¦   +---tools
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---colors
+¦   ¦   ¦       +---css
+¦   ¦   ¦       ¦   +---parser
+¦   ¦   ¦       +---download
+¦   ¦   ¦       ¦   +---api
+¦   ¦   ¦       ¦   +---git
+¦   ¦   ¦       ¦   +---github
+¦   ¦   ¦       ¦   +---gitlab
+¦   ¦   ¦       ¦   +---helpers
+¦   ¦   ¦       ¦   +---npm
+¦   ¦   ¦       ¦   +---types
+¦   ¦   ¦       +---export
+¦   ¦   ¦       ¦   +---helpers
+¦   ¦   ¦       +---icon-set
+¦   ¦   ¦       +---import
+¦   ¦   ¦       ¦   +---figma
+¦   ¦   ¦       ¦       +---types
+¦   ¦   ¦       +---misc
+¦   ¦   ¦       +---optimise
+¦   ¦   ¦       +---svg
+¦   ¦   ¦           +---analyse
+¦   ¦   ¦           +---cleanup
+¦   ¦   ¦           +---data
+¦   ¦   +---types
+¦   ¦   +---utils
+¦   ¦       +---lib
+¦   ¦       ¦   +---colors
+¦   ¦       ¦   +---css
+¦   ¦       ¦   +---customisations
+¦   ¦       ¦   +---emoji
+¦   ¦       ¦   ¦   +---regex
+¦   ¦       ¦   ¦   +---replace
+¦   ¦       ¦   ¦   +---test
+¦   ¦       ¦   +---icon
+¦   ¦       ¦   +---icon-set
+¦   ¦       ¦   +---loader
+¦   ¦       ¦   +---misc
+¦   ¦       ¦   +---svg
+¦   ¦       +---node_modules
+¦   ¦           +---confbox
+¦   ¦           ¦   +---dist
+¦   ¦           ¦       +---shared
+¦   ¦           +---globals
+¦   ¦           +---local-pkg
+¦   ¦           ¦   +---dist
+¦   ¦           +---pathe
+¦   ¦           ¦   +---dist
+¦   ¦           ¦       +---shared
+¦   ¦           +---pkg-types
+¦   ¦               +---dist
+¦   +---@img
+¦   ¦   +---sharp-win32-x64
+¦   ¦       +---lib
+¦   +---@jridgewell
+¦   ¦   +---gen-mapping
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---resolve-uri
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---set-array
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---sourcemap-codec
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---trace-mapping
+¦   ¦       +---dist
+¦   ¦           +---types
+¦   +---@oslojs
+¦   ¦   +---encoding
+¦   ¦       +---dist
+¦   +---@proload
+¦   ¦   +---core
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---cjs
+¦   ¦   ¦       +---esm
+¦   ¦   +---plugin-tsm
+¦   ¦       +---lib
+¦   ¦       +---test
+¦   +---@rollup
+¦   ¦   +---pluginutils
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   +---cjs
+¦   ¦   ¦   ¦   +---es
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦   ¦   +---estree-walker
+¦   ¦   ¦   ¦       +---dist
+¦   ¦   ¦   ¦       ¦   +---esm
+¦   ¦   ¦   ¦       ¦   +---umd
+¦   ¦   ¦   ¦       +---src
+¦   ¦   ¦   ¦       +---types
+¦   ¦   ¦   +---types
+¦   ¦   +---rollup-win32-x64-msvc
+¦   +---@shikijs
+¦   ¦   +---core
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---shared
+¦   ¦   +---engine-javascript
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---shared
+¦   ¦   +---engine-oniguruma
+¦   ¦   ¦   +---dist
+¦   ¦   +---langs
+¦   ¦   ¦   +---dist
+¦   ¦   +---themes
+¦   ¦   ¦   +---dist
+¦   ¦   +---types
+¦   ¦   ¦   +---dist
+¦   ¦   +---vscode-textmate
+¦   ¦       +---dist
+¦   +---@trysound
+¦   ¦   +---sax
+¦   ¦       +---lib
+¦   +---@types
+¦   ¦   +---babel__core
+¦   ¦   +---babel__generator
+¦   ¦   +---babel__template
+¦   ¦   +---babel__traverse
+¦   ¦   +---cookie
+¦   ¦   +---debug
+¦   ¦   +---estree
+¦   ¦   +---hast
+¦   ¦   +---mdast
+¦   ¦   +---ms
+¦   ¦   +---nlcst
+¦   ¦   +---node
+¦   ¦   ¦   +---assert
+¦   ¦   ¦   +---compatibility
+¦   ¦   ¦   +---dns
+¦   ¦   ¦   +---fs
+¦   ¦   ¦   +---readline
+¦   ¦   ¦   +---stream
+¦   ¦   ¦   +---timers
+¦   ¦   ¦   +---ts5.6
+¦   ¦   +---react
+¦   ¦   ¦   +---ts5.0
+¦   ¦   ¦       +---v18
+¦   ¦   ¦           +---ts5.0
+¦   ¦   +---react-dom
+¦   ¦   ¦   +---test-utils
+¦   ¦   +---tar
+¦   ¦   +---unist
+¦   ¦   +---yauzl
+¦   +---@ungap
+¦   ¦   +---structured-clone
+¦   ¦       +---.github
+¦   ¦       ¦   +---workflows
+¦   ¦       +---cjs
+¦   ¦       +---esm
+¦   +---@vitejs
+¦   ¦   +---plugin-react
+¦   ¦       +---dist
+¦   +---acorn
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   +---ansi-align
+¦   ¦   +---node_modules
+¦   ¦       +---ansi-regex
+¦   ¦       +---emoji-regex
+¦   ¦       ¦   +---es2015
+¦   ¦       +---string-width
+¦   ¦       +---strip-ansi
+¦   +---ansi-regex
+¦   +---ansi-styles
+¦   +---anymatch
+¦   ¦   +---node_modules
+¦   ¦       +---picomatch
+¦   ¦           +---lib
+¦   +---argparse
+¦   ¦   +---lib
+¦   +---aria-query
+¦   ¦   +---lib
+¦   ¦       +---etc
+¦   ¦       ¦   +---roles
+¦   ¦       ¦       +---abstract
+¦   ¦       ¦       +---dpub
+¦   ¦       ¦       +---graphics
+¦   ¦       ¦       +---literal
+¦   ¦       +---util
+¦   +---array-iterate
+¦   ¦   +---lib
+¦   +---astro
+¦   ¦   +---components
+¦   ¦   +---dist
+¦   ¦   ¦   +---actions
+¦   ¦   ¦   ¦   +---runtime
+¦   ¦   ¦   ¦       +---virtual
+¦   ¦   ¦   +---assets
+¦   ¦   ¦   ¦   +---build
+¦   ¦   ¦   ¦   +---endpoint
+¦   ¦   ¦   ¦   +---services
+¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦       +---node
+¦   ¦   ¦   ¦       +---vendor
+¦   ¦   ¦   ¦           +---image-size
+¦   ¦   ¦   ¦               +---types
+¦   ¦   ¦   +---cli
+¦   ¦   ¦   ¦   +---add
+¦   ¦   ¦   ¦   +---build
+¦   ¦   ¦   ¦   +---check
+¦   ¦   ¦   ¦   +---create-key
+¦   ¦   ¦   ¦   +---db
+¦   ¦   ¦   ¦   +---dev
+¦   ¦   ¦   ¦   +---docs
+¦   ¦   ¦   ¦   +---info
+¦   ¦   ¦   ¦   +---preferences
+¦   ¦   ¦   ¦   +---preview
+¦   ¦   ¦   ¦   +---sync
+¦   ¦   ¦   ¦   +---telemetry
+¦   ¦   ¦   +---config
+¦   ¦   ¦   +---container
+¦   ¦   ¦   +---content
+¦   ¦   ¦   ¦   +---loaders
+¦   ¦   ¦   +---core
+¦   ¦   ¦   ¦   +---app
+¦   ¦   ¦   ¦   +---build
+¦   ¦   ¦   ¦   ¦   +---plugins
+¦   ¦   ¦   ¦   +---client-directive
+¦   ¦   ¦   ¦   +---compile
+¦   ¦   ¦   ¦   +---config
+¦   ¦   ¦   ¦   +---cookies
+¦   ¦   ¦   ¦   +---dev
+¦   ¦   ¦   ¦   +---errors
+¦   ¦   ¦   ¦   ¦   +---dev
+¦   ¦   ¦   ¦   +---fs
+¦   ¦   ¦   ¦   +---logger
+¦   ¦   ¦   ¦   +---middleware
+¦   ¦   ¦   ¦   +---module-loader
+¦   ¦   ¦   ¦   +---preview
+¦   ¦   ¦   ¦   +---redirects
+¦   ¦   ¦   ¦   +---render
+¦   ¦   ¦   ¦   +---routing
+¦   ¦   ¦   ¦   ¦   +---manifest
+¦   ¦   ¦   ¦   +---server-islands
+¦   ¦   ¦   ¦   +---sync
+¦   ¦   ¦   +---env
+¦   ¦   ¦   +---events
+¦   ¦   ¦   +---i18n
+¦   ¦   ¦   +---integrations
+¦   ¦   ¦   +---jsx
+¦   ¦   ¦   +---jsx-runtime
+¦   ¦   ¦   +---manifest
+¦   ¦   ¦   +---preferences
+¦   ¦   ¦   +---prefetch
+¦   ¦   ¦   +---prerender
+¦   ¦   ¦   +---runtime
+¦   ¦   ¦   ¦   +---client
+¦   ¦   ¦   ¦   ¦   +---dev-toolbar
+¦   ¦   ¦   ¦   ¦       +---apps
+¦   ¦   ¦   ¦   ¦       ¦   +---audit
+¦   ¦   ¦   ¦   ¦       ¦   ¦   +---rules
+¦   ¦   ¦   ¦   ¦       ¦   ¦   +---ui
+¦   ¦   ¦   ¦   ¦       ¦   +---utils
+¦   ¦   ¦   ¦   ¦       +---ui-library
+¦   ¦   ¦   ¦   +---compiler
+¦   ¦   ¦   ¦   +---server
+¦   ¦   ¦   ¦       +---render
+¦   ¦   ¦   ¦           +---astro
+¦   ¦   ¦   +---template
+¦   ¦   ¦   +---toolbar
+¦   ¦   ¦   +---transitions
+¦   ¦   ¦   +---types
+¦   ¦   ¦   ¦   +---public
+¦   ¦   ¦   +---virtual-modules
+¦   ¦   ¦   +---vite-plugin-astro
+¦   ¦   ¦   +---vite-plugin-astro-postprocess
+¦   ¦   ¦   +---vite-plugin-astro-server
+¦   ¦   ¦   +---vite-plugin-config-alias
+¦   ¦   ¦   +---vite-plugin-fileurl
+¦   ¦   ¦   +---vite-plugin-head
+¦   ¦   ¦   +---vite-plugin-hmr-reload
+¦   ¦   ¦   +---vite-plugin-html
+¦   ¦   ¦   ¦   +---transform
+¦   ¦   ¦   +---vite-plugin-integrations-container
+¦   ¦   ¦   +---vite-plugin-load-fallback
+¦   ¦   ¦   +---vite-plugin-markdown
+¦   ¦   ¦   +---vite-plugin-scanner
+¦   ¦   ¦   +---vite-plugin-scripts
+¦   ¦   ¦   +---vite-plugin-ssr-manifest
+¦   ¦   ¦   +---vite-plugin-utils
+¦   ¦   +---templates
+¦   ¦   ¦   +---content
+¦   ¦   +---tsconfigs
+¦   ¦   +---types
+¦   +---astro-i18next
+¦   ¦   +---dist
+¦   ¦   ¦   +---cli
+¦   ¦   ¦   +---types
+¦   ¦   ¦       +---cli
+¦   ¦   +---src
+¦   ¦       +---cli
+¦   ¦       +---components
+¦   +---astro-icon
+¦   ¦   +---components
+¦   ¦   +---dist
+¦   ¦   ¦   +---loaders
+¦   ¦   +---typings
+¦   +---asynckit
+¦   ¦   +---lib
+¦   +---axios
+¦   ¦   +---dist
+¦   ¦   ¦   +---browser
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---node
+¦   ¦   +---lib
+¦   ¦       +---adapters
+¦   ¦       +---cancel
+¦   ¦       +---core
+¦   ¦       +---defaults
+¦   ¦       +---env
+¦   ¦       ¦   +---classes
+¦   ¦       +---helpers
+¦   ¦       +---platform
+¦   ¦           +---browser
+¦   ¦           ¦   +---classes
+¦   ¦           +---common
+¦   ¦           +---node
+¦   ¦               +---classes
+¦   +---axobject-query
+¦   ¦   +---lib
+¦   ¦       +---etc
+¦   ¦       ¦   +---objects
+¦   ¦       +---util
+¦   +---bail
+¦   +---base-64
+¦   +---boolbase
+¦   +---boxen
+¦   +---braces
+¦   ¦   +---lib
+¦   +---browserslist
+¦   +---buffer-crc32
+¦   +---call-bind-apply-helpers
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---camelcase
+¦   +---caniuse-lite
+¦   ¦   +---data
+¦   ¦   ¦   +---features
+¦   ¦   ¦   +---regions
+¦   ¦   +---dist
+¦   ¦       +---lib
+¦   ¦       +---unpacker
+¦   +---ccount
+¦   +---chalk
+¦   ¦   +---source
+¦   ¦       +---vendor
+¦   ¦           +---ansi-styles
+¦   ¦           +---supports-color
+¦   +---character-entities
+¦   +---character-entities-html4
+¦   +---character-entities-legacy
+¦   +---cheerio
+¦   ¦   +---dist
+¦   ¦   ¦   +---browser
+¦   ¦   ¦   ¦   +---api
+¦   ¦   ¦   ¦   +---parsers
+¦   ¦   ¦   +---commonjs
+¦   ¦   ¦   ¦   +---api
+¦   ¦   ¦   ¦   +---parsers
+¦   ¦   ¦   +---esm
+¦   ¦   ¦       +---api
+¦   ¦   ¦       +---parsers
+¦   ¦   +---src
+¦   ¦       +---api
+¦   ¦       +---parsers
+¦   ¦       +---__fixtures__
+¦   ¦       +---__tests__
+¦   +---cheerio-select
+¦   ¦   +---lib
+¦   ¦       +---esm
+¦   +---chokidar
+¦   ¦   +---esm
+¦   +---chownr
+¦   +---ci-info
+¦   +---cli-boxes
+¦   +---clsx
+¦   ¦   +---dist
+¦   +---color
+¦   +---color-convert
+¦   +---color-name
+¦   +---color-string
+¦   +---combined-stream
+¦   ¦   +---lib
+¦   +---comma-separated-tokens
+¦   +---commander
+¦   ¦   +---typings
+¦   +---common-ancestor-path
+¦   +---confbox
+¦   ¦   +---dist
+¦   ¦       +---shared
+¦   +---convert-source-map
+¦   +---cookie
+¦   +---cookie-es
+¦   ¦   +---dist
+¦   +---cross-fetch
+¦   ¦   +---dist
+¦   ¦   +---polyfill
+¦   +---crossws
+¦   ¦   +---adapters
+¦   ¦   +---dist
+¦   ¦       +---adapters
+¦   ¦       +---shared
+¦   ¦       +---websocket
+¦   +---css-select
+¦   ¦   +---lib
+¦   ¦       +---esm
+¦   ¦       ¦   +---pseudo-selectors
+¦   ¦       +---pseudo-selectors
+¦   +---css-tree
+¦   ¦   +---cjs
+¦   ¦   ¦   +---convertor
+¦   ¦   ¦   +---definition-syntax
+¦   ¦   ¦   +---generator
+¦   ¦   ¦   +---lexer
+¦   ¦   ¦   +---parser
+¦   ¦   ¦   +---syntax
+¦   ¦   ¦   ¦   +---atrule
+¦   ¦   ¦   ¦   +---config
+¦   ¦   ¦   ¦   +---function
+¦   ¦   ¦   ¦   +---node
+¦   ¦   ¦   ¦   ¦   +---common
+¦   ¦   ¦   ¦   +---pseudo
+¦   ¦   ¦   ¦   +---scope
+¦   ¦   ¦   +---tokenizer
+¦   ¦   ¦   +---utils
+¦   ¦   ¦   +---walker
+¦   ¦   +---data
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   ¦       +---convertor
+¦   ¦       +---definition-syntax
+¦   ¦       +---generator
+¦   ¦       +---lexer
+¦   ¦       +---parser
+¦   ¦       +---syntax
+¦   ¦       ¦   +---atrule
+¦   ¦       ¦   +---config
+¦   ¦       ¦   +---function
+¦   ¦       ¦   +---node
+¦   ¦       ¦   +---pseudo
+¦   ¦       ¦   +---scope
+¦   ¦       +---tokenizer
+¦   ¦       +---utils
+¦   ¦       +---walker
+¦   +---css-what
+¦   ¦   +---lib
+¦   ¦       +---commonjs
+¦   ¦       +---es
+¦   +---cssesc
+¦   ¦   +---bin
+¦   ¦   +---man
+¦   +---csso
+¦   ¦   +---cjs
+¦   ¦   ¦   +---clean
+¦   ¦   ¦   +---replace
+¦   ¦   ¦   ¦   +---atrule
+¦   ¦   ¦   ¦   +---property
+¦   ¦   ¦   +---restructure
+¦   ¦   ¦       +---prepare
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   ¦   ¦   +---clean
+¦   ¦   ¦   +---replace
+¦   ¦   ¦   ¦   +---atrule
+¦   ¦   ¦   ¦   +---property
+¦   ¦   ¦   +---restructure
+¦   ¦   ¦       +---prepare
+¦   ¦   +---node_modules
+¦   ¦       +---css-tree
+¦   ¦       ¦   +---cjs
+¦   ¦       ¦   ¦   +---convertor
+¦   ¦       ¦   ¦   +---definition-syntax
+¦   ¦       ¦   ¦   +---generator
+¦   ¦       ¦   ¦   +---lexer
+¦   ¦       ¦   ¦   +---parser
+¦   ¦       ¦   ¦   +---syntax
+¦   ¦       ¦   ¦   ¦   +---atrule
+¦   ¦       ¦   ¦   ¦   +---config
+¦   ¦       ¦   ¦   ¦   +---function
+¦   ¦       ¦   ¦   ¦   +---node
+¦   ¦       ¦   ¦   ¦   +---pseudo
+¦   ¦       ¦   ¦   ¦   +---scope
+¦   ¦       ¦   ¦   +---tokenizer
+¦   ¦       ¦   ¦   +---utils
+¦   ¦       ¦   ¦   +---walker
+¦   ¦       ¦   +---data
+¦   ¦       ¦   +---dist
+¦   ¦       ¦   +---lib
+¦   ¦       ¦       +---convertor
+¦   ¦       ¦       +---definition-syntax
+¦   ¦       ¦       +---generator
+¦   ¦       ¦       +---lexer
+¦   ¦       ¦       +---parser
+¦   ¦       ¦       +---syntax
+¦   ¦       ¦       ¦   +---atrule
+¦   ¦       ¦       ¦   +---config
+¦   ¦       ¦       ¦   +---function
+¦   ¦       ¦       ¦   +---node
+¦   ¦       ¦       ¦   +---pseudo
+¦   ¦       ¦       ¦   +---scope
+¦   ¦       ¦       +---tokenizer
+¦   ¦       ¦       +---utils
+¦   ¦       ¦       +---walker
+¦   ¦       +---mdn-data
+¦   ¦           +---api
+¦   ¦           +---css
+¦   ¦           +---l10n
+¦   +---csstype
+¦   +---debug
+¦   ¦   +---src
+¦   +---decode-named-character-reference
+¦   +---deepmerge
+¦   ¦   +---dist
+¦   +---defu
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   +---delayed-stream
+¦   ¦   +---lib
+¦   +---dequal
+¦   ¦   +---dist
+¦   ¦   +---lite
+¦   +---destr
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   +---detect-libc
+¦   ¦   +---lib
+¦   +---deterministic-object-hash
+¦   ¦   +---dist
+¦   +---devalue
+¦   ¦   +---src
+¦   ¦   +---types
+¦   +---devlop
+¦   ¦   +---lib
+¦   +---diff
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   ¦       +---convert
+¦   ¦       +---diff
+¦   ¦       +---patch
+¦   ¦       +---util
+¦   +---dlv
+¦   ¦   +---dist
+¦   +---dom-serializer
+¦   ¦   +---lib
+¦   ¦       +---esm
+¦   +---domelementtype
+¦   ¦   +---lib
+¦   ¦       +---esm
+¦   +---domhandler
+¦   ¦   +---lib
+¦   ¦       +---esm
+¦   +---domutils
+¦   ¦   +---lib
+¦   ¦       +---esm
+¦   +---dset
+¦   ¦   +---dist
+¦   ¦   +---merge
+¦   +---dunder-proto
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---electron-to-chromium
+¦   +---emoji-regex
+¦   +---emoji-regex-xs
+¦   +---encoding-sniffer
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---end-of-stream
+¦   +---entities
+¦   ¦   +---lib
+¦   ¦       +---esm
+¦   ¦       ¦   +---generated
+¦   ¦       +---generated
+¦   +---es-define-property
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---es-errors
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---es-module-lexer
+¦   ¦   +---dist
+¦   ¦   +---types
+¦   +---es-object-atoms
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---es-set-tostringtag
+¦   ¦   +---test
+¦   +---esbuild
+¦   ¦   +---bin
+¦   ¦   +---lib
+¦   +---esbuild-windows-64
+¦   ¦   +---bin
+¦   +---escalade
+¦   ¦   +---dist
+¦   ¦   +---sync
+¦   +---escape-string-regexp
+¦   +---esprima
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   +---estree-walker
+¦   ¦   +---src
+¦   ¦   +---types
+¦   +---eventemitter3
+¦   ¦   +---dist
+¦   +---exsolve
+¦   ¦   +---dist
+¦   +---extend
+¦   +---extract-zip
+¦   +---fd-slicer
+¦   ¦   +---test
+¦   +---fdir
+¦   ¦   +---dist
+¦   ¦       +---api
+¦   ¦       ¦   +---functions
+¦   ¦       +---builder
+¦   +---fill-range
+¦   +---find-up
+¦   +---find-up-simple
+¦   +---find-yarn-workspace-root2
+¦   +---flattie
+¦   ¦   +---dist
+¦   +---follow-redirects
+¦   +---form-data
+¦   ¦   +---lib
+¦   +---fs-minipass
+¦   ¦   +---node_modules
+¦   ¦       +---minipass
+¦   ¦       +---yallist
+¦   +---function-bind
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---gensync
+¦   ¦   +---test
+¦   +---get-east-asian-width
+¦   +---get-intrinsic
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---get-proto
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---get-stream
+¦   +---github-slugger
+¦   +---globals
+¦   +---gopd
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   +---graceful-fs
+¦   +---h3
+¦   ¦   +---dist
+¦   +---has-symbols
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   ¦       +---shams
+¦   +---has-tostringtag
+¦   ¦   +---.github
+¦   ¦   +---test
+¦   ¦       +---shams
+¦   +---hasown
+¦   ¦   +---.github
+¦   +---hast-util-from-html
+¦   ¦   +---lib
+¦   +---hast-util-from-parse5
+¦   ¦   +---lib
+¦   +---hast-util-is-element
+¦   ¦   +---lib
+¦   +---hast-util-parse-selector
+¦   ¦   +---lib
+¦   +---hast-util-raw
+¦   ¦   +---lib
+¦   +---hast-util-to-html
+¦   ¦   +---lib
+¦   ¦       +---handle
+¦   ¦       +---omission
+¦   ¦           +---util
+¦   +---hast-util-to-parse5
+¦   ¦   +---lib
+¦   ¦   +---node_modules
+¦   ¦       +---property-information
+¦   ¦           +---lib
+¦   ¦               +---util
+¦   +---hast-util-to-text
+¦   ¦   +---lib
+¦   +---hast-util-whitespace
+¦   ¦   +---lib
+¦   +---hastscript
+¦   ¦   +---lib
+¦   +---html-escaper
+¦   ¦   +---cjs
+¦   ¦   +---esm
+¦   ¦   +---test
+¦   +---html-void-elements
+¦   +---htmlparser2
+¦   ¦   +---lib
+¦   ¦       +---esm
+¦   +---http-cache-semantics
+¦   +---i18next
+¦   ¦   +---dist
+¦   ¦       +---cjs
+¦   ¦       +---esm
+¦   ¦       +---umd
+¦   +---i18next-browser-languagedetector
+¦   ¦   +---.github
+¦   ¦   +---dist
+¦   ¦       +---cjs
+¦   ¦       +---esm
+¦   ¦       +---umd
+¦   +---i18next-fs-backend
+¦   ¦   +---cjs
+¦   ¦   ¦   +---formats
+¦   ¦   +---esm
+¦   ¦   ¦   +---formats
+¦   ¦   +---lib
+¦   ¦       +---formats
+¦   +---i18next-http-backend
+¦   ¦   +---cjs
+¦   ¦   +---esm
+¦   ¦   +---lib
+¦   +---iconv-lite
+¦   ¦   +---.github
+¦   ¦   +---.idea
+¦   ¦   ¦   +---codeStyles
+¦   ¦   ¦   +---inspectionProfiles
+¦   ¦   +---encodings
+¦   ¦   ¦   +---tables
+¦   ¦   +---lib
+¦   +---import-meta-resolve
+¦   ¦   +---lib
+¦   +---iron-webcrypto
+¦   ¦   +---dist
+¦   +---is-arrayish
+¦   +---is-docker
+¦   +---is-fullwidth-code-point
+¦   +---is-inside-container
+¦   +---is-number
+¦   +---is-plain-obj
+¦   +---is-wsl
+¦   +---iso-639-1
+¦   ¦   +---.vscode
+¦   ¦   +---build
+¦   ¦   +---src
+¦   ¦   +---test
+¦   +---js-tokens
+¦   +---js-yaml
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   ¦       +---schema
+¦   ¦       +---type
+¦   +---jsesc
+¦   ¦   +---bin
+¦   ¦   +---man
+¦   +---json5
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   +---kleur
+¦   +---kolorist
+¦   ¦   +---dist
+¦   ¦       +---cjs
+¦   ¦       +---esm
+¦   ¦       +---module
+¦   ¦       +---types
+¦   +---load-yaml-file
+¦   ¦   +---node_modules
+¦   ¦       +---.bin
+¦   ¦       +---argparse
+¦   ¦       ¦   +---lib
+¦   ¦       ¦       +---action
+¦   ¦       ¦       ¦   +---append
+¦   ¦       ¦       ¦   +---store
+¦   ¦       ¦       +---argument
+¦   ¦       ¦       +---help
+¦   ¦       +---js-yaml
+¦   ¦           +---bin
+¦   ¦           +---dist
+¦   ¦           +---lib
+¦   ¦               +---js-yaml
+¦   ¦                   +---schema
+¦   ¦                   +---type
+¦   ¦                       +---js
+¦   +---local-pkg
+¦   ¦   +---dist
+¦   +---locale-emoji
+¦   +---locate-path
+¦   +---longest-streak
+¦   +---lru-cache
+¦   ¦   +---dist
+¦   ¦       +---commonjs
+¦   ¦       +---esm
+¦   +---magic-string
+¦   ¦   +---dist
+¦   +---magicast
+¦   ¦   +---dist
+¦   ¦       +---shared
+¦   +---markdown-table
+¦   +---math-intrinsics
+¦   ¦   +---.github
+¦   ¦   +---constants
+¦   ¦   +---test
+¦   +---mdast-util-definitions
+¦   ¦   +---lib
+¦   +---mdast-util-find-and-replace
+¦   ¦   +---lib
+¦   +---mdast-util-from-markdown
+¦   ¦   +---dev
+¦   ¦   ¦   +---lib
+¦   ¦   +---lib
+¦   +---mdast-util-gfm
+¦   ¦   +---lib
+¦   +---mdast-util-gfm-autolink-literal
+¦   ¦   +---lib
+¦   +---mdast-util-gfm-footnote
+¦   ¦   +---lib
+¦   +---mdast-util-gfm-strikethrough
+¦   ¦   +---lib
+¦   +---mdast-util-gfm-table
+¦   ¦   +---lib
+¦   +---mdast-util-gfm-task-list-item
+¦   ¦   +---lib
+¦   +---mdast-util-phrasing
+¦   ¦   +---lib
+¦   +---mdast-util-to-hast
+¦   ¦   +---lib
+¦   ¦       +---handlers
+¦   +---mdast-util-to-markdown
+¦   ¦   +---lib
+¦   ¦       +---handle
+¦   ¦       +---util
+¦   +---mdast-util-to-string
+¦   ¦   +---lib
+¦   +---mdn-data
+¦   ¦   +---api
+¦   ¦   +---css
+¦   ¦   +---l10n
+¦   +---micromark
+¦   ¦   +---dev
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---initialize
+¦   ¦   +---lib
+¦   ¦       +---initialize
+¦   +---micromark-core-commonmark
+¦   ¦   +---dev
+¦   ¦   ¦   +---lib
+¦   ¦   +---lib
+¦   +---micromark-extension-gfm
+¦   +---micromark-extension-gfm-autolink-literal
+¦   ¦   +---dev
+¦   ¦   ¦   +---lib
+¦   ¦   +---lib
+¦   +---micromark-extension-gfm-footnote
+¦   ¦   +---dev
+¦   ¦   ¦   +---lib
+¦   ¦   +---lib
+¦   +---micromark-extension-gfm-strikethrough
+¦   ¦   +---dev
+¦   ¦   ¦   +---lib
+¦   ¦   +---lib
+¦   +---micromark-extension-gfm-table
+¦   ¦   +---dev
+¦   ¦   ¦   +---lib
+¦   ¦   +---lib
+¦   +---micromark-extension-gfm-tagfilter
+¦   ¦   +---lib
+¦   +---micromark-extension-gfm-task-list-item
+¦   ¦   +---dev
+¦   ¦   ¦   +---lib
+¦   ¦   +---lib
+¦   +---micromark-factory-destination
+¦   ¦   +---dev
+¦   +---micromark-factory-label
+¦   ¦   +---dev
+¦   +---micromark-factory-space
+¦   ¦   +---dev
+¦   +---micromark-factory-title
+¦   ¦   +---dev
+¦   +---micromark-factory-whitespace
+¦   ¦   +---dev
+¦   +---micromark-util-character
+¦   ¦   +---dev
+¦   +---micromark-util-chunked
+¦   ¦   +---dev
+¦   +---micromark-util-classify-character
+¦   ¦   +---dev
+¦   +---micromark-util-combine-extensions
+¦   +---micromark-util-decode-numeric-character-reference
+¦   ¦   +---dev
+¦   +---micromark-util-decode-string
+¦   ¦   +---dev
+¦   +---micromark-util-encode
+¦   +---micromark-util-html-tag-name
+¦   +---micromark-util-normalize-identifier
+¦   ¦   +---dev
+¦   +---micromark-util-resolve-all
+¦   +---micromark-util-sanitize-uri
+¦   ¦   +---dev
+¦   +---micromark-util-subtokenize
+¦   ¦   +---dev
+¦   ¦   ¦   +---lib
+¦   ¦   +---lib
+¦   +---micromark-util-symbol
+¦   ¦   +---lib
+¦   +---micromark-util-types
+¦   +---micromatch
+¦   ¦   +---node_modules
+¦   ¦       +---picomatch
+¦   ¦           +---lib
+¦   +---mime-db
+¦   +---mime-types
+¦   +---minipass
+¦   +---minizlib
+¦   ¦   +---node_modules
+¦   ¦       +---minipass
+¦   ¦       +---yallist
+¦   +---mkdirp
+¦   ¦   +---bin
+¦   ¦   +---lib
+¦   +---mlly
+¦   ¦   +---dist
+¦   ¦   +---node_modules
+¦   ¦       +---pathe
+¦   ¦           +---dist
+¦   ¦               +---shared
+¦   +---mrmime
+¦   +---ms
+¦   +---nanoid
+¦   ¦   +---async
+¦   ¦   +---bin
+¦   ¦   +---non-secure
+¦   ¦   +---url-alphabet
+¦   +---neotraverse
+¦   ¦   +---dist
+¦   ¦       +---legacy
+¦   ¦       +---min
+¦   ¦       +---modern
+¦   ¦           +---min
+¦   +---nlcst-to-string
+¦   ¦   +---lib
+¦   +---node-fetch
+¦   ¦   +---lib
+¦   +---node-fetch-native
+¦   ¦   +---dist
+¦   ¦   ¦   +---chunks
+¦   ¦   ¦   +---shared
+¦   ¦   +---lib
+¦   +---node-mock-http
+¦   ¦   +---dist
+¦   ¦       +---_polyfill
+¦   ¦           +---buffer
+¦   ¦           +---events
+¦   +---node-releases
+¦   ¦   +---data
+¦   ¦       +---processed
+¦   ¦       +---release-schedule
+¦   +---normalize-path
+¦   +---nth-check
+¦   ¦   +---lib
+¦   ¦       +---esm
+¦   +---ofetch
+¦   ¦   +---dist
+¦   ¦       +---shared
+¦   +---once
+¦   +---oniguruma-to-es
+¦   ¦   +---dist
+¦   ¦       +---cjs
+¦   ¦       +---esm
+¦   +---p-limit
+¦   +---p-locate
+¦   ¦   +---node_modules
+¦   ¦       +---p-limit
+¦   +---p-queue
+¦   ¦   +---dist
+¦   +---p-timeout
+¦   +---p-try
+¦   +---package-manager-detector
+¦   ¦   +---dist
+¦   ¦       +---shared
+¦   +---parse-latin
+¦   ¦   +---lib
+¦   ¦       +---plugin
+¦   +---parse5
+¦   ¦   +---dist
+¦   ¦       +---cjs
+¦   ¦       ¦   +---common
+¦   ¦       ¦   +---parser
+¦   ¦       ¦   +---serializer
+¦   ¦       ¦   +---tokenizer
+¦   ¦       ¦   +---tree-adapters
+¦   ¦       +---common
+¦   ¦       +---parser
+¦   ¦       +---serializer
+¦   ¦       +---tokenizer
+¦   ¦       +---tree-adapters
+¦   +---parse5-htmlparser2-tree-adapter
+¦   ¦   +---dist
+¦   ¦       +---cjs
+¦   +---parse5-parser-stream
+¦   ¦   +---dist
+¦   ¦       +---cjs
+¦   +---path-exists
+¦   +---pathe
+¦   ¦   +---dist
+¦   ¦       +---shared
+¦   +---pend
+¦   +---picocolors
+¦   +---picomatch
+¦   ¦   +---lib
+¦   +---pify
+¦   +---pkg-dir
+¦   +---pkg-types
+¦   ¦   +---dist
+¦   ¦   +---node_modules
+¦   ¦       +---pathe
+¦   ¦           +---dist
+¦   ¦               +---shared
+¦   +---postcss
+¦   ¦   +---lib
+¦   +---preferred-pm
+¦   +---prismjs
+¦   ¦   +---components
+¦   ¦   +---plugins
+¦   ¦   ¦   +---autolinker
+¦   ¦   ¦   +---autoloader
+¦   ¦   ¦   +---command-line
+¦   ¦   ¦   +---copy-to-clipboard
+¦   ¦   ¦   +---custom-class
+¦   ¦   ¦   +---data-uri-highlight
+¦   ¦   ¦   +---diff-highlight
+¦   ¦   ¦   +---download-button
+¦   ¦   ¦   +---file-highlight
+¦   ¦   ¦   +---filter-highlight-all
+¦   ¦   ¦   +---highlight-keywords
+¦   ¦   ¦   +---inline-color
+¦   ¦   ¦   +---jsonp-highlight
+¦   ¦   ¦   +---keep-markup
+¦   ¦   ¦   +---line-highlight
+¦   ¦   ¦   +---line-numbers
+¦   ¦   ¦   +---match-braces
+¦   ¦   ¦   +---normalize-whitespace
+¦   ¦   ¦   +---previewers
+¦   ¦   ¦   +---remove-initial-line-feed
+¦   ¦   ¦   +---show-invisibles
+¦   ¦   ¦   +---show-language
+¦   ¦   ¦   +---toolbar
+¦   ¦   ¦   +---treeview
+¦   ¦   ¦   +---unescaped-markup
+¦   ¦   ¦   +---wpd
+¦   ¦   +---themes
+¦   +---prompts
+¦   ¦   +---dist
+¦   ¦   ¦   +---dateparts
+¦   ¦   ¦   +---elements
+¦   ¦   ¦   +---util
+¦   ¦   +---lib
+¦   ¦   ¦   +---dateparts
+¦   ¦   ¦   +---elements
+¦   ¦   ¦   +---util
+¦   ¦   +---node_modules
+¦   ¦       +---kleur
+¦   +---property-information
+¦   ¦   +---lib
+¦   ¦       +---util
+¦   +---proxy-from-env
+¦   +---pump
+¦   ¦   +---.github
+¦   +---quansync
+¦   ¦   +---dist
+¦   +---radix3
+¦   ¦   +---dist
+¦   +---react
+¦   ¦   +---cjs
+¦   +---react-dom
+¦   ¦   +---cjs
+¦   +---react-refresh
+¦   ¦   +---cjs
+¦   +---readdirp
+¦   ¦   +---esm
+¦   +---regenerator-runtime
+¦   +---regex
+¦   ¦   +---dist
+¦   ¦   ¦   +---cjs
+¦   ¦   ¦   +---esm
+¦   ¦   +---src
+¦   +---regex-recursion
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   ¦   +---types
+¦   +---regex-utilities
+¦   ¦   +---src
+¦   ¦   +---types
+¦   +---rehype
+¦   +---rehype-parse
+¦   ¦   +---lib
+¦   +---rehype-raw
+¦   ¦   +---lib
+¦   +---rehype-stringify
+¦   ¦   +---lib
+¦   +---remark-gfm
+¦   ¦   +---lib
+¦   +---remark-parse
+¦   ¦   +---lib
+¦   +---remark-rehype
+¦   ¦   +---lib
+¦   +---remark-smartypants
+¦   ¦   +---dist
+¦   +---remark-stringify
+¦   ¦   +---lib
+¦   +---retext
+¦   +---retext-latin
+¦   ¦   +---lib
+¦   +---retext-smartypants
+¦   ¦   +---lib
+¦   +---retext-stringify
+¦   ¦   +---lib
+¦   +---rollup
+¦   ¦   +---dist
+¦   ¦       +---bin
+¦   ¦       +---es
+¦   ¦       ¦   +---shared
+¦   ¦       +---shared
+¦   +---safer-buffer
+¦   +---scheduler
+¦   ¦   +---cjs
+¦   +---semver
+¦   ¦   +---bin
+¦   ¦   +---classes
+¦   ¦   +---functions
+¦   ¦   +---internal
+¦   ¦   +---ranges
+¦   +---sharp
+¦   ¦   +---install
+¦   ¦   +---lib
+¦   ¦   +---src
+¦   +---shiki
+¦   ¦   +---dist
+¦   ¦       +---langs
+¦   ¦       +---themes
+¦   ¦       +---types
+¦   +---simple-swizzle
+¦   +---sisteransi
+¦   ¦   +---src
+¦   +---smol-toml
+¦   ¦   +---dist
+¦   +---source-map-js
+¦   ¦   +---lib
+¦   +---space-separated-tokens
+¦   +---sprintf-js
+¦   ¦   +---demo
+¦   ¦   +---dist
+¦   ¦   +---src
+¦   ¦   +---test
+¦   +---string-width
+¦   +---stringify-entities
+¦   ¦   +---lib
+¦   ¦       +---constant
+¦   ¦       +---util
+¦   +---strip-ansi
+¦   +---strip-bom
+¦   +---svgo
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   ¦   +---lib
+¦   ¦   ¦   +---svgo
+¦   ¦   +---plugins
+¦   +---tar
+¦   ¦   +---lib
+¦   ¦   +---node_modules
+¦   ¦       +---minipass
+¦   ¦       +---yallist
+¦   +---tinyexec
+¦   ¦   +---dist
+¦   +---tinyglobby
+¦   ¦   +---dist
+¦   +---to-regex-range
+¦   +---tr46
+¦   ¦   +---lib
+¦   +---trim-lines
+¦   +---trough
+¦   ¦   +---lib
+¦   +---tsconfck
+¦   ¦   +---bin
+¦   ¦   +---src
+¦   ¦   +---types
+¦   +---tsm
+¦   ¦   +---config
+¦   ¦   +---node_modules
+¦   ¦       +---.bin
+¦   ¦       +---@esbuild
+¦   ¦       +---esbuild
+¦   ¦           +---bin
+¦   ¦           +---lib
+¦   +---type-fest
+¦   ¦   +---source
+¦   ¦       +---internal
+¦   +---typescript
+¦   ¦   +---bin
+¦   ¦   +---lib
+¦   ¦       +---cs
+¦   ¦       +---de
+¦   ¦       +---es
+¦   ¦       +---fr
+¦   ¦       +---it
+¦   ¦       +---ja
+¦   ¦       +---ko
+¦   ¦       +---pl
+¦   ¦       +---pt-br
+¦   ¦       +---ru
+¦   ¦       +---tr
+¦   ¦       +---zh-cn
+¦   ¦       +---zh-tw
+¦   +---ufo
+¦   ¦   +---dist
+¦   +---ultrahtml
+¦   ¦   +---dist
+¦   ¦   ¦   +---jsx-runtime
+¦   ¦   ¦   +---transformers
+¦   ¦   +---transformers
+¦   +---uncrypto
+¦   ¦   +---dist
+¦   +---undici
+¦   ¦   +---docs
+¦   ¦   ¦   +---docs
+¦   ¦   ¦       +---api
+¦   ¦   ¦       +---best-practices
+¦   ¦   +---lib
+¦   ¦   ¦   +---api
+¦   ¦   ¦   +---core
+¦   ¦   ¦   +---dispatcher
+¦   ¦   ¦   +---handler
+¦   ¦   ¦   +---interceptor
+¦   ¦   ¦   +---llhttp
+¦   ¦   ¦   +---mock
+¦   ¦   ¦   +---util
+¦   ¦   ¦   +---web
+¦   ¦   ¦       +---cache
+¦   ¦   ¦       +---cookies
+¦   ¦   ¦       +---eventsource
+¦   ¦   ¦       +---fetch
+¦   ¦   ¦       +---fileapi
+¦   ¦   ¦       +---websocket
+¦   ¦   +---scripts
+¦   ¦   +---types
+¦   +---undici-types
+¦   +---unified
+¦   ¦   +---lib
+¦   +---unist-util-find-after
+¦   ¦   +---lib
+¦   +---unist-util-is
+¦   ¦   +---lib
+¦   +---unist-util-modify-children
+¦   ¦   +---lib
+¦   +---unist-util-position
+¦   ¦   +---lib
+¦   +---unist-util-remove-position
+¦   ¦   +---lib
+¦   +---unist-util-stringify-position
+¦   ¦   +---lib
+¦   +---unist-util-visit
+¦   ¦   +---lib
+¦   +---unist-util-visit-children
+¦   ¦   +---lib
+¦   +---unist-util-visit-parents
+¦   ¦   +---lib
+¦   +---unstorage
+¦   ¦   +---dist
+¦   ¦   ¦   +---shared
+¦   ¦   +---drivers
+¦   ¦       +---utils
+¦   +---update-browserslist-db
+¦   +---vfile
+¦   ¦   +---lib
+¦   +---vfile-location
+¦   ¦   +---lib
+¦   +---vfile-message
+¦   ¦   +---lib
+¦   +---vite
+¦   ¦   +---bin
+¦   ¦   +---dist
+¦   ¦   ¦   +---client
+¦   ¦   ¦   +---node
+¦   ¦   ¦   ¦   +---chunks
+¦   ¦   ¦   +---node-cjs
+¦   ¦   +---misc
+¦   ¦   +---types
+¦   ¦       +---internal
+¦   +---vitefu
+¦   ¦   +---src
+¦   +---web-namespaces
+¦   +---webidl-conversions
+¦   ¦   +---lib
+¦   +---whatwg-encoding
+¦   ¦   +---lib
+¦   +---whatwg-mimetype
+¦   ¦   +---lib
+¦   +---whatwg-url
+¦   ¦   +---lib
+¦   +---which-pm
+¦   +---which-pm-runs
+¦   +---widest-line
+¦   +---wrap-ansi
+¦   +---wrappy
+¦   +---xxhash-wasm
+¦   ¦   +---cjs
+¦   ¦   +---esm
+¦   ¦   +---umd
+¦   ¦   +---workerd
+¦   +---yallist
+¦   +---yargs-parser
+¦   ¦   +---build
+¦   ¦       +---lib
+¦   +---yauzl
+¦   +---yocto-queue
+¦   +---yocto-spinner
+¦   +---yoctocolors
+¦   +---zod
+¦   ¦   +---lib
+¦   ¦       +---benchmarks
+¦   ¦       +---helpers
+¦   ¦       +---locales
+¦   ¦       +---__tests__
+¦   +---zod-to-json-schema
+¦   ¦   +---.github
+¦   ¦   +---dist
+¦   ¦   ¦   +---cjs
+¦   ¦   ¦   ¦   +---parsers
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   ¦   +---parsers
+¦   ¦   ¦   +---types
+¦   ¦   ¦       +---parsers
+¦   ¦   +---dist-test
+¦   ¦       +---cjs
+¦   ¦       ¦   +---node_modules
+¦   ¦       ¦       +---zod
+¦   ¦       ¦           +---lib
+¦   ¦       ¦               +---benchmarks
+¦   ¦       ¦               +---helpers
+¦   ¦       ¦               +---locales
+¦   ¦       ¦               +---__tests__
+¦   ¦       +---esm
+¦   ¦       ¦   +---node_modules
+¦   ¦       ¦       +---zod
+¦   ¦       ¦           +---lib
+¦   ¦       ¦               +---benchmarks
+¦   ¦       ¦               +---helpers
+¦   ¦       ¦               +---locales
+¦   ¦       ¦               +---__tests__
+¦   ¦       +---types
+¦   ¦           +---node_modules
+¦   ¦               +---zod
+¦   ¦                   +---lib
+¦   ¦                       +---benchmarks
+¦   ¦                       +---helpers
+¦   ¦                       +---locales
+¦   ¦                       +---__tests__
+¦   +---zod-to-ts
+¦   ¦   +---dist
+¦   +---zwitch
++---public
+¦   +---images
++---publications
++---src
+¦   +---assets
+¦   +---components
+¦   ¦   +---blog
+¦   +---content
+¦   ¦   +---blog
+¦   ¦       +---en
+¦   +---layouts
+¦   +---pages
+¦   +---styles
++---_astro

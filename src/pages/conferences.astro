@@ -12,6 +12,7 @@ import { onMount } from "solid-js";
         document.body.classList.toggle("dark-mode", theme === "dark");
       })();
     </script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/styles.css" />
     <meta name="astro-view-transitions-enabled" content="true" />
     <meta name="astro-view-transitions-fallback" content="animate" />
@@ -50,9 +51,9 @@ import { onMount } from "solid-js";
           </div>
 
           <div class="flex flex-row gap-4 mt-6 md:mt-0 md:ml-auto items-center hidden md:flex" id="nav-links">
-            <a href="https://drive.google.com/file/d/1KTrrCpn9wudCucKT9xWBIzMy67_oe2Xo/view?usp=sharing" target="_blank">CV</a>
+            <a href="https://drive.google.com/file/d/1KTrrCpn9wudCucKT9xWBIzMy67_oe2Xo/view?usp=sharing" target="_blank">CV <i class="fas fa-external-link-alt"></i></a>
             <a href="/publications">Publications</a>
-            <a href="https://www.glintlab.org/publications/index.html">Conferences</a>
+            <a href="/conferences">Conferences</a>
             <button id="theme-toggle" aria-label="Toggle theme">🌗</button>
           </div>
           </div>
@@ -62,106 +63,241 @@ import { onMount } from "solid-js";
       <section class="fadeMe relative z-20 max-w-4xl mx-auto my-12 px-7 lg:px-0">
         
     
-        <h2 class="mt-5 mb-2 text-2xl font-bold dark:text-neutral-200">2024</h2>
-    
+        <h2 class="mt-5 mb-2 text-2xl font-bold dark:text-neutral-200">Invited Talks</h2>
         <div class="mb-10">
           <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
-            <b>Proceedings of the 32nd Conference of the Student Organization of Linguistics In Europe</b> <br />
-            Federica Longo, Leonardo Russo Cardona, Tommaso Sgrizzi, Atefeh Shahbazi, Hadis Tamleh (eds.) <br />
-            2025 <br />
-            <a href="https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxxii.pdf" target="_blank" class="paper-button">book</a>
-            <button id="toggleBibtex_hu_shades_2025" class="bibtex-button">
-              bibtex
-            </button>
+            <b>When infinitives are not under control:
+            <br />the Growing Trees Hypothesis and the developmental advantage
+            <br />of restructuring verbs</b>
+            <br /><u>Seminari di Linguistica</u>
+            - <i>University of Padua</i>
+            <br />12/12/2024<br />
+            <a class="paper-button">
+              Talk
+            </a>
           </p>
-        
-          <div id="bibtex_hu_what_2025" class="pl-6 w-full max-w-3xl" style="display: none;">
-            <div class="relative bg-gray-50 rounded-lg dark:bg-gray-700 p-1">
-              <div class="overflow-scroll max-h-full">
-                <pre><code id="code-block_hu_what_2025" class="text-xs text-gray-500 dark:text-gray-400 whitespace-pre">
-                  {String.raw`@manuscript{hu_what_2025,
-                    title = {What can string probability tell us about grammaticality?},
-                    author = {Hu, Jennifer and Wilcox, Ethan and Song, Siyuan and Mahowald, Kyle and Levy, Roger},
-                    year = {2025}
-                  }`}
-                </code></pre>
-              </div>
-            </div>
-          </div>
         </div>
-        
-        <!-- SECOND PAPER -->
         <div class="mb-10">
+          <h2 class="mt-5 mb-2 text-2xl font-bold dark:text-neutral-200">Upcoming presentations</h2>
+        
           <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
-            <b>Different Ways to Forget: Linguistic Gates in Recurrent Neural Networks</b> <br />
-            Cristiano Chesi, Veronica Bressan, Matilde Barbini, Achille Fusco, Maria Letizia Piccini Bianchessi, Sofia Neri, Sarah Rossi, Tommaso Sgrizzi<br />
-            2025 <br />
-            <a href="https://aclanthology.org/2024.conll-babylm.9/" target="_blank" class="paper-button">
-              paper
+            <b>Root Infinitives in Child Language: A Split-Feature Inheritance Approach</b>
+            <br /><u>26th Annual International Conference of The English Department (AICED26)</u>
+            <br /><i>University of Bucharest</i>
+            <br />29-31/05/2025<br />
+            <a class="paper-button">
+              Talk
             </a>
-        
-            <a href="https://github.com/cristianochesi/babylm-2024" target="_blank" class="code-button">
-              code
+            <a class="code-button">
+              Upcoming
             </a>
-        
-            <button id="toggleBibtex_hu_shades_2025" class="bibtex-button">
-              bibtex
-            </button>
           </p>
         </div>
         
-          
-        </p>
-    
-        <div id="bibtex_hu_shades_2025" class="pl-6 w-full max-w-3xl" style="display: none;">
-          <div class="relative bg-gray-50 rounded-lg dark:bg-gray-700 p-1">
-            <div class="overflow-scroll max-h-full">
-              <pre><code id="code-block_hu_shades_2025" class="text-xs text-gray-500 dark:text-gray-400 whitespace-pre">
-                {String.raw`@manuscript{hu_shades_2025,
-                  title = {Shades of Zero: Distinguishing impossibility from inconceivability},
-                  author = {Hu, Jennifer and Sosa, Felix and Ullman, Tomer},
-                  year = {2025}
-                }`}
-              </code></pre>
-            </div>
-          </div>
+        <div class="mb-10">
+          <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
+            <b>The Labeling of Root Infinitives - A Split-Feature Inheritance Approach</b>
+            <br /><u>Formal Linguistics in the Nordic Countries (FLiNC)</u>
+            <br /><i>NTNU Trondheim</i>
+            <br />20-21/05/2025<br />
+            <a class="paper-button">
+              Talk
+            </a>
+            <a class="code-button">
+              Upcoming
+            </a>
+          </p>
         </div>
 
-        <!-- SECOND PAPER -->
         <div class="mb-10">
           <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
-            <b>Recurrent networks are (linguistically) better? An experiment on small-LM training on child-directed speech in Italian.</b> <br />
-            Achille Fusco, Matilde Barbini, Maria Letizia Piccini Bianchessi, Veronica Bressan, Sofia Neri, Sarah Rossi, Tommaso Sgrizzi, Cristiano Chesi<br />
-            2024 <br />
-            <a href="https://ceur-ws.org/Vol-3878/45_main_long.pdf" target="_blank" class="paper-button">
-              paper
+            <b>Root Infinitives in Child Language: A Split-Feature Inheritance Approach</b>
+            <br /><u>Colloquium on Generative Grammar (CGG34)</u>
+            <br /><i>National University of Distance Education (UNED) - Madrid</i>
+            <br />07-09/05/2025<br />
+            <a class="bibtex-button">
+              Poster
             </a>
-        
-            <a href="https://github.com/cristianochesi/babylm-2024" target="_blank" class="code-button">
-              code
+            <a class="code-button">
+              Upcoming
             </a>
+          </p>
+        </div>
+
         
-            <button id="toggleBibtex_hu_shades_2025" class="bibtex-button">
-              bibtex
-            </button>
+        <div class="mb-10">
+          <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
+            <b>Belief or Action? Semantic Ambiguity in Italian Non-finite Domain</b>
+            <br /><i>with Achille Fusco</i>
+            <br /><u>Generative Linguistics in the Old World (GLOW47)</u>
+            <br /><i>University of Frankfurt</i>
+            <br />25/03/2025<br />
+            <a class="bibtex-button">
+              Poster
+            </a>
+            <a class="code-button">
+              Upcoming
+            </a>
+          </p>
+        </div>
+      
+        <div class="mb-10">
+          <h2 class="mt-5 mb-2 text-2xl font-bold dark:text-neutral-200">2025</h2>
+
+          <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
+            <b>Infinitives that are not under control: 
+            <br />the developmental advantage of restructuring verbs and the Growing Trees Hypothesis</b>
+            <br /><u>50th Incontro di Grammatica Generativa (IGG50)</u>
+            - <i>University of Padua</i>
+            <br />20/02/2025<br />
+            <a class="bibtex-button">
+              Poster
+            </a>
+          </p>
+        </div>
+        <div class="mb-10">
+          <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
+            <b>Structural size and the belief/intention alternation  
+            <br />in Italian <i>convincere</i></b>
+            <br /><i>with Achille Fusco</i>
+            <br /><u>50th Incontro di Grammatica Generativa (IGG50)</u>
+            - <i>University of Padua</i>
+            <br />21/02/2025<br />
+            <a class="paper-button">
+              Talk
+            </a>
           </p>
         </div>
         
-          
-        </p>
-    
-        <div id="bibtex_hu_shades_2025" class="pl-6 w-full max-w-3xl" style="display: none;">
-          <div class="relative bg-gray-50 rounded-lg dark:bg-gray-700 p-1">
-            <div class="overflow-scroll max-h-full">
-              <pre><code id="code-block_hu_shades_2025" class="text-xs text-gray-500 dark:text-gray-400 whitespace-pre">
-                {String.raw`@manuscript{hu_shades_2025,
-                  title = {Shades of Zero: Distinguishing impossibility from inconceivability},
-                  author = {Hu, Jennifer and Sosa, Felix and Ullman, Tomer},
-                  year = {2025}
-                }`}
-              </code></pre>
-            </div>
-          </div>
+        <div class="mb-10">
+          <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
+            <b>Current Linguistic Changes in Contemporary Italian:   
+            <br />The Cases <i>non io che</i> and <i>essere tipo</i></b>
+            <br /><i>with Sarah Rossi</i>
+            <br /><u>Conference of SOLE (ConSOLE33)</u>
+            - <i>Georg-August-Universität Göttingen</i>
+            <br />31/01/2025<br />
+            <a class="paper-button">
+              Talk
+            </a>
+          </p>
+        </div>
+        
+        <div class="mb-10">
+          <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
+            <b>Belief-Intention alternation with Italian <i>convincere</i>  
+            </b>
+            <br /><i>with Achille Fusco</i>
+            <br /><u>Workshop on Agency and Intentions in Language (5)</u>
+            <br/><i>Georg-August-Universität Göttingen (virtual)</i>
+            <br />29/01/2025<br />
+            <a class="paper-button">
+              Talk
+            </a>
+          </p>
+        </div>
+        <div class="mb-10">
+          <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
+            <b><i>Fare+Che+Infinitives</i> in Turinese Italian  
+            <br />Insights into the low-vP periphery
+            </b>
+            
+            <br /><u>Conference of SOLE (ConSOLE33)</u>
+            - <i>Georg-August-Universität Göttingen</i>
+            <br />29/01/2025<br />
+            <a class="bibtex-button">
+              Poster
+            </a>
+          </p>
+        </div>
+        <h2 class="mt-5 mb-2 text-2xl font-bold dark:text-neutral-200">2024</h2>
+
+
+        <div class="mb-10">
+          <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
+            <b>Split-Feature Inheritance and the Labeling of Root Infinitives
+            </b>
+            <br /><u>Current issues in syntax, semantics and pragmatics</u>
+            <br />workshop at ÖLT - Österreichische Linguistiktagung 2024
+            - <i>University of Innsbruck</i>
+            <br />19/12/2024<br />
+            <a class="paper-button">
+              Talk
+            </a>
+          </p>
+        </div>
+
+        <div class="mb-10">
+          <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
+            <b>The Acquisition of Infinitival Clauses and The Developmental Advantage of Restructuring Verbs:
+             A Growing Trees Perspective</b>
+            <br /><u>Multimodality and Interaction in Language Learning (MILLing)</u>
+            <br/><i>University of Gothenburg</i>
+            <br />14-15/10/2024<br />
+            <a class="bibtex-button">
+              Poster
+            </a>
+          </p>
+        </div>
+
+        <div class="mb-10">
+          <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
+            <b>Functional Restructuring and the Growing Trees Hypothesis: Insights from Language Acquisition</b>
+            <br /><u>Generative Approaches to Language Acquisition (GALA16)</u>
+            <br/><i>NOVA University of Lisbon</i>
+            <br />12-14/09/2024<br />
+            <a class="paper-button">
+              Talk
+            </a>
+          </p>
+        </div>
+
+        <div class="mb-10">
+          <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
+            <b>Exploring the Role of Restructuring Verbs in Early Italian under the Growing Trees Hypothesis</b>
+            <br /><u>57th Meeting of Societas Linguistica Europaea (SLE57)</u>
+            - <i>University of Helsinki</i>
+            <br />21-24/08/2024<br />
+            <a class="paper-button">
+              Talk
+            </a>
+          </p>
+        </div>
+
+        <div class="mb-10">
+          <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
+            <b>The developmental advantage of restructuring verbs: a Growing Trees perspective</b>
+            <br /><u>Child Language Symposium</u>
+            - <i>University of Newcastle</i>
+            <br />09-11/07/2024<br />
+            <a class="paper-button">
+              Talk
+            </a>
+          </p>
+        </div>
+
+        <div class="mb-10">
+          <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
+            <b>Functional Restructuring and the Growing Trees Hypothesis: Insights from Italian Corpus data</b>
+            <br /><u>Manchester Forum in Linguistics (MFiL24)</u>
+            - <i>University of Manchester</i>
+            <br />25-26/06/2024<br />
+            <a class="paper-button">
+              Talk
+            </a>
+          </p>
+        </div>
+
+        <div class="mb-10">
+          <p class="pl-6 mt-2 mb-6 text-gray-600 dark:text-neutral-400">
+            <b>The developmental advantage of restructuring verbs: a Growing Trees perspective</b>
+            <br /><u>STaPs21 (virtual)</u>
+            - <i>The doctoral school of linguistics, Budapest</i>
+            <br />28/02/2024<br />
+            <a class="bibtex-button">
+              Poster
+            </a>
+          </p>
         </div>
       </section>
       <script>

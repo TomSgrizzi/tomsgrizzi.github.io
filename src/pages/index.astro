@@ -49,7 +49,7 @@ import { onMount } from "solid-js";
           </div>
 
           <div class="flex flex-row gap-4 mt-6 md:mt-0 md:ml-auto items-center hidden md:flex" id="nav-links">
-            <a href="https://drive.google.com/file/d/1KTrrCpn9wudCucKT9xWBIzMy67_oe2Xo/view?usp=sharing" target="_blank">CV</a>
+            <a href="https://drive.google.com/file/d/1KTrrCpn9wudCucKT9xWBIzMy67_oe2Xo/view?usp=sharing" target="_blank">CV <i class="fas fa-external-link-alt"></i></a>
             <a href="/publications">Publications</a>
             <a href="/conferences">Conferences</a>
             <button id="theme-toggle" aria-label="Toggle theme">🌗</button>
@@ -62,16 +62,98 @@ import { onMount } from "solid-js";
         <img src="/tom_headshot.png" alt="Profile photo" class="rounded-full bg-gray-100 block lg:mt-5 mt-0 lg:mb-5 mb-10 mx-auto sm:float-right sm:ml-5 sm:mb-5" width="160" height="160" loading="lazy" decoding="async" />
         <div class="prose prose-neutral dark:prose-invert">
           <p>
-            I am a PhD student at the <a href="https://www.iusspavia.it/en/contacts/tommaso-sgrizzi">Institute of Advanced Studies (IUSS)</a> in Pavia.
-            Starting March 2024, I am an editorial board member of the <a href="https://www.universiteitleiden.nl/en/events/series/sole">Student Organization of Linguistics in Europe</a>.
+            I am a PhD student at the <a href="https://www.iusspavia.it/en/contacts/tommaso-sgrizzi">Institute of Advanced Studies (IUSS)</a> in Pavia,
+            and an editorial board member of the <a href="https://www.universiteitleiden.nl/en/events/series/sole">Student Organization of Linguistics in Europe</a> (starting March 2024).
           </p>
           <p>
             My work focuses on the syntax and acquisition of specific infinitive-taking verbs (known as ‘restructuring verbs’) in Italian and other Romance languages, under the supervision of Adriana Belletti and Cristiano Chesi.
           </p>
           <p>
-            In my free time, you can find me drawing, taking photos of my friends, or playing music. Additionally, my recent dive into Python has allowed me to integrate programming with my research interests.
+            In my free time, you can find me drawing, taking photos of my friends, or playing music. Additionally, my recent dive into Python has allowed me to integrate programming with my research interests (see some of my projects below) ✨.
           </p>
-        </div>
+          <hr />
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Introducing Decap CMS</title>
+            <style>
+                .article-container {
+                    display: flex;
+                    flex-wrap: wrap; /* Ensure articles wrap if the screen is small */
+                    justify-content: space-between; /* Space out the articles */
+                    gap: 20px; /* Space between articles */
+                }
+        
+                .article {
+                    max-width: 600px;
+                    margin: auto;
+                    border-radius: 10px;
+                    position: relative;
+                    overflow: hidden;
+                    flex: 1 1 48%; /* Articles take up 48% of the width on desktop */
+                }
+        
+                .article img {
+                    width: 100%;
+                    border-radius: 10px;
+                    display: block;
+                }
+        
+                .overlay {
+                    position: absolute;
+                    bottom: 0;
+                    left: 0;
+                    width: 100%;
+                    padding: 20px;
+                    background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 100%);
+                    color: white;
+                    text-align: left;
+                }
+        
+                .overlay h3, .overlay p, .overlay a {
+                    margin: 5px 0;
+                }
+        
+                .overlay a {
+                    color: rgb(176, 200, 124);
+                    text-decoration: none;
+                    font-weight: bold;
+                }
+        
+                /* Media query for screens larger than 768px (desktop view) */
+                @media (min-width: 768px) {
+                    .article-container {
+                        flex-wrap: nowrap; /* Ensure the articles stay side by side on desktop */
+                    }
+        
+                    .article {
+                        flex: 1 1 48%; /* Keep articles side by side, with some space between */
+                    }
+                }
+            </style>
+        </head>
+        <body>
+            <div class="article-container">
+                <div class="article">
+                    <img src="/images/generatreex.png" alt="Decap CMS">
+                    <div class="overlay">
+                        <h3><b>GeneraTreeX: Syntactic Trees from In-Line Notation</b></h3>
+                        <a href="https://generatreex-2-edec2e0eb6b5.herokuapp.com/download">Read More <i class="fas fa-external-link-alt"></i></a>
+                    </div>
+                </div>
+        
+                <div class="article">
+                    <img src="/images/citebuzz.png" alt="Decap CMS">
+                    <div class="overlay">
+                        <h3><b>CiteBuzz: Export Citation Tool</b></h3>
+                        <a href="https://citebuzz-d5c49bc031a5.herokuapp.com/">Read More <i class="fas fa-external-link-alt"></i></a>
+                    </div>
+                </div>
+            </div>
+        </body>
+        
+        
+          </div>
       </section>
     </main>
   </body>
