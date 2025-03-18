@@ -6,12 +6,16 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "@astrojs/react": "^4.2.1",
     "astro": "^5.4.2",
     "astro-i18next": "^1.0.0-beta.21",
     "astro-icon": "^1.1.5"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
