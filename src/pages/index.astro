@@ -40,36 +40,90 @@ import { onMount } from "solid-js";
     <link rel="stylesheet" href="/_astro/_slug_.9KftnuDT.css" />
     <script src="/theme.js" defer></script>
     <style>
-      .flip-container {
-        perspective: 1000px;
-        width: 160px;
-        height: 160px;
-        margin: 0 auto;
-      }
-      
-      .flipper {
-        position: relative;
-        width: 100%;
-        height: 100%;
-        transition: transform 0.8s;
-        transform-style: preserve-3d;
-      }
-      
-      .flip-container:hover .flipper {
-        transform: rotateY(180deg);
-      }
-      
-      .front, .back {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        backface-visibility: hidden;
-        border-radius: 50%;
-      }
-      
-      .back {
-        transform: rotateY(180deg);
-      }
+      /* Flip effect styles (unchanged) */
+.flip-container {
+  perspective: 1000px;
+  width: 160px;
+  height: 160px;
+  margin: 0 auto;
+}
+
+.flipper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.flip-container:hover .flipper {
+  transform: rotateY(180deg);
+}
+
+.front, .back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 50%;
+}
+
+.back {
+  transform: rotateY(180deg);
+}
+
+/* ---- Article Grid Styles ---- */
+.article-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  gap: 20px; /* Space between grid items */
+  margin-top: 2rem;
+}
+
+.article {
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+
+.article img {
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+}
+
+/* Overlay styling */
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));
+  color: white;
+  text-align: left;
+}
+
+.overlay h3,
+.overlay p,
+.overlay a {
+  margin: 5px 0;
+}
+
+.overlay a {
+  color: rgb(176, 200, 124);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Responsive behavior: Stack on smaller screens */
+@media (max-width: 768px) {
+  .article-container {
+    grid-template-columns: 1fr;
+  }
+}
+
     </style>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-JYN7X6HJZL"></script>
     <script>
@@ -113,7 +167,7 @@ import { onMount } from "solid-js";
             My work focuses on the syntax and acquisition of specific infinitive-taking verbs (known as 'restructuring verbs') in Italian and other Romance languages, under the supervision of Adriana Belletti and Cristiano Chesi.
           </p>
           <p>
-            In my free time, you can find me drawing, taking photos of my friends, or playing music. Additionally, my recent dive into Python has allowed me to integrate programming with my research interests (see some of my projects below) ✨.
+            In my free time, you can find me drawing, taking photos of my friends, or playing music. Additionally, my recent dive into Python and web development has allowed me to integrate programming with my research interests (see some of my projects below) ✨.
           </p>
 
           <div class="flex gap-4 mb-4">
@@ -191,24 +245,34 @@ import { onMount } from "solid-js";
                 }
             </style>
         </head>
-        <body>
+        <body>    
             <div class="article-container">
-                <div class="article">
-                    <img src="/images/generatreex.png" alt="Decap CMS">
-                    <div class="overlay">
-                        <h3><b>GeneraTreeX:<br/>Syntactic Trees from In-Line Notation</b></h3>
-                        <a href="https://generatreex-2-edec2e0eb6b5.herokuapp.com/">Read More <i class="fas fa-external-link-alt"></i></a>
-                    </div>
-                </div>
-        
-                <div class="article">
-                    <img src="/images/citebuzz.png" alt="Decap CMS">
-                    <div class="overlay">
-                        <h3><b>CiteBuzz: Export Citation Tool</b></h3>
-                        <a href="https://citebuzz-d5c49bc031a5.herokuapp.com/">Read More <i class="fas fa-external-link-alt"></i></a>
-                    </div>
-                </div>
-            </div>
+  <div class="article">
+    <img src="/images/lingjudge.png" alt="LingJudge">
+    <div class="overlay">
+      <h3><b>LingJudge:<br/>A Platform for native-judgements collection</b></h3>
+      <a href="https://www.lingjudge.eu" target="_blank" rel="noopener noreferrer">Read More <i class="fas fa-external-link-alt"></i></a>
+    </div>
+  </div>
+
+  <div class="article">
+    <img src="/images/nets.png" alt="CiteBuzz">
+    <div class="overlay">
+      <h3><b>NETs Lab<br/></h3>
+      <a href="https://nets-lab.github.io/" target="_blank" rel="noopener noreferrer">Read More <i class="fas fa-external-link-alt"></i></a>
+    </div>
+  </div>
+
+  <div class="article">
+    <img src="/images/generatreex.png" alt="GeneraTreeX">
+    <div class="overlay">
+      <h3><b>GeneraTreeX:<br/>Syntactic Trees from In-Line Notation</b></h3>
+      <a href="https://generatreex-2-edec2e0eb6b5.herokuapp.com/" target="_blank" rel="noopener noreferrer">Read More <i class="fas fa-external-link-alt"></i></a>
+    </div>
+  </div>
+</div>
+
+      
         </body>
         
         
